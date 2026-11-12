@@ -1,0 +1,27 @@
+{
+  "authorArchiveSha256": "68938abeaa41641402f641ba3381526da0a834076d9575405a31a2110ce0e7be",
+  "preview": {
+    "height": 540,
+    "sha256": "4c3dec33454aae0f1ab17fa713cce9b532364e242a019c6bbbe0b1b11fb7baf9",
+    "sizeBytes": 61271,
+    "width": 960
+  },
+  "schemaVersion": 1,
+  "source": {
+    "authorPage": "https://www.curseforge.com/minecraft/modpacks/desolate-planet/gallery",
+    "height": 1009,
+    "sha256": "693c585fc151bfcc9d2cd3c187fdf8c2e7ffd052c1c6d512459c8d28a7d1f667",
+    "sizeBytes": 624239,
+    "url": "https://media.forgecdn.net/attachments/1294/512/469e0228d64aa83a156b8817a1a5cc74ee8bdf6a-png.png",
+    "width": 1920
+  },
+  "transformation": {
+    "background": "#121212",
+    "format": "JPEG",
+    "method": "Lanczos resize preserving the full image",
+    "optimize": true,
+    "pillowVersion": "12.3.0",
+    "quality": 92,
+    "subsampling": 0
+  }
+}

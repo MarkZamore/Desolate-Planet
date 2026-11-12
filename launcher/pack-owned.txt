@@ -1,1 +1,2 @@
 config/e4mc/e4mc.toml
+config/log4j2.xml

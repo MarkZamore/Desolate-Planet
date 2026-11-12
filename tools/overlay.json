@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "authorArchiveSha256": "68938abeaa41641402f641ba3381526da0a834076d9575405a31a2110ce0e7be",
+  "descriptorSha256": "96182334ad6aeb9a5567aa1ac2037d61b660256e360908c1166ccc3ea20e8eb9",
+  "excludedDependencies": [
+    { "projectId": 849519, "fileId": 8225255 }
+  ],
+  "patches": [
+    {
+      "path": "config/e4mc/e4mc.toml",
+      "before": {
+        "sizeBytes": 1120,
+        "sha256": "3967d3b931472a818bdb8430414c324f40f2441132fafc029fef95f89507cc8e"
+      },
+      "after": {
+        "sizeBytes": 1121,
+        "sha256": "85c2d70f27136a6bdcba4c70f526d46ddca2c09bee464787cfe21f6c163c6c96"
+      },
+      "from": "hostEnabled = true",
+      "to": "hostEnabled = false"
+    }
+  ]
+}

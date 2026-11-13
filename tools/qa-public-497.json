@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "sourceRevision": "87b3a5f64e83de69d3a2ae1199365015269a78d6",
+  "authorPayloadSourceRevision": "84b87c6a364e91b0074da2adc989b0b4ec014c65",
+  "launcherRelease": 497,
+  "launcherRevision": "e45c6f5830c8aa4725b4190cf05462097d94b753",
+  "launcherExeSha256": "1169b958dca5633ecabc43b32cfd5091ce4f9de111fa767c5c58f4ec765a6b7c",
+  "launcherAssemblySha256": "532f9237f5c226c18bbe4fb885389ea2b13ac31de8f24932b03fb3b7d5947b4a",
+  "minecraftVersion": "1.20.1",
+  "profile": "1.20.1-forge-47.4.20",
+  "javaRuntime": "Temurin 17.0.20.1+1",
+  "authorArchiveSha256": "68938abeaa41641402f641ba3381526da0a834076d9575405a31a2110ce0e7be",
+  "upstreamLockSha256": "0ab26be201cba2da96be32639e39009a648c0dbe64506443426ac70b163c0fd5",
+  "intakeSha256": "938618ae84686f9d15273fc0bdaa5fff23a8e4eee1024d64fd67c9c0659d8f05",
+  "descriptorSha256": "96182334ad6aeb9a5567aa1ac2037d61b660256e360908c1166ccc3ea20e8eb9",
+  "cleanPayloadVerifiedFiles": 2912,
+  "manifestSha256": "f4b36741f076a588ee07bc81ca3ac9650752940557f914d2278c24c070e150b9",
+  "exactFinalLibraryArchiveSha256": "7e64349832270ac426b2548689cd27430d93c8cc75244a06f0246b28e97acde7",
+  "nativeAgentSha256": "c1f1d0fe4dd19df20fb4487a3ed380a07606c67d46a75ef1163be9bb76aa0422",
+  "managedSteamSha256": "3f397fc193f14d3c543b5ef9b4613bc149a21ca8e14bd93c39de3d1bc6f9553c",
+  "authorE4mcExcluded": true,
+  "runtimeE4mcAbsent": true,
+  "loadedForgeIdsIncludingPlatform": 188,
+  "publishedAuthorModCount": 185,
+  "nativeEvidenceSha256": "782a2cbe4086078e7d155fd1807651caf29c77636802cfae5c9df258d86449e4",
+  "adapter": {
+    "jarSha256": "f5274c077ea45aca68f609ba30c28e52acbf4caac82de74a717e2c24d5428945",
+    "stateSha256": "d76d025cf82a0141ed94c677ec5f301f672509171d21aaa29e5effb5c5c7d0ed",
+    "targetsPassed": 25,
+    "skinUrlSemantic": "PASS"
+  },
+  "productionArgFile": {
+    "used": true,
+    "removed": true,
+    "beforeChars": 36873,
+    "afterChars": 1041
+  },
+  "reopenedInputLevelDatSha256": "90011088fee472165b1c40e1c7bb295358b4c49d884c9b012cb8c92c27f1544d",
+  "afterExitNbt": {
+    "hardcore": 1,
+    "allowCommands": 0,
+    "Difficulty": 3,
+    "DifficultyLocked": 0,
+    "GameType": 0,
+    "LevelName": "LanMcSteamQa120",
+    "postExitLevelDatSha256": "d1722b7c09f2c818e90c883f8c821c8155275b629bedb38a1b0a9ec752685aee"
+  },
+  "titles": [
+    {
+      "kind": "window_title",
+      "utc": "2026-11-13T19:56:07.366601300Z",
+      "phase": "startup",
+      "actual": "Desolate Planet",
+      "nativeWindow": true,
+      "matches": true,
+      "expected": "Desolate Planet"
+    },
+    {
+      "kind": "window_title",
+      "utc": "2026-11-13T19:57:13.918496Z",
+      "phase": "world_before_steam",
+      "actual": "Desolate Planet",
+      "nativeWindow": true,
+      "matches": true,
+      "expected": "Desolate Planet"
+    },
+    {
+      "kind": "window_title",
+      "utc": "2026-11-13T19:57:16.333714600Z",
+      "phase": "world_after_steam",
+      "actual": "Desolate Planet",
+      "nativeWindow": true,
+      "matches": true,
+      "expected": "Desolate Planet"
+    }
+  ],
+  "checks": {
+    "world_reopened": {
+      "kind": "world_reopened",
+      "utc": "2026-11-13T19:56:49.804902600Z",
+      "commands": false,
+      "gameMode": "SURVIVAL"
+    },
+    "pause_before_publish": {
+      "kind": "pause_before_publish",
+      "utc": "2026-11-13T19:57:15.018382200Z",
+      "nativeButtonCallback": true,
+      "shareToLan": 1,
+      "worldSettingsOrCheats": false
+    },
+    "published": {
+      "kind": "published",
+      "utc": "2026-11-13T19:57:15.478185200Z",
+      "nativeListener": true,
+      "settingsClosedOnPublication": true
+    },
+    "native_permissions": {
+      "kind": "native_permissions",
+      "utc": "2026-11-13T19:57:16.007257400Z",
+      "checks": {
+        "savedSurvivalMode": true,
+        "guestAfter": false,
+        "guestBefore": false,
+        "hostBefore": false,
+        "savedAllowsCommands": false,
+        "hostAfter": false
+      },
+      "syntheticGuest": true,
+      "actualPlayerList": true
+    },
+    "pause_after_publish": {
+      "kind": "pause_after_publish",
+      "utc": "2026-11-13T19:57:16.083344Z",
+      "worldSettingsOrCheats": false,
+      "shareToLanGone": true,
+      "reports": true
+    },
+    "chat": {
+      "kind": "chat",
+      "utc": "2026-11-13T19:57:16.329658500Z",
+      "redCloseAction": true,
+      "blueInviteAction": true,
+      "localPortLines": 1,
+      "nativeLocalHistory": true,
+      "privateEndpointRecorded": false,
+      "greenCopyableAddress": true,
+      "readyLines": 1
+    },
+    "steam_lobby_metadata": {
+      "kind": "steam_lobby_metadata",
+      "utc": "2026-11-13T19:57:16.337225500Z",
+      "actualSteamLobby": true,
+      "displayFlag": true,
+      "matchesWorldName": true,
+      "secondAccountDiscovery": "NOT RUN",
+      "matchesLauncherPlayer": true
+    },
+    "world_saved": {
+      "kind": "world_saved",
+      "utc": "2026-11-13T19:57:18.082491500Z",
+      "levelDatBytes": 384994,
+      "levelDatSha256": "5b83cc2c88ecf9b0466fddca07641380c7722e3cd7ab4f5b0c40937b1a275f40"
+    },
+    "complete": {
+      "kind": "complete",
+      "utc": "2026-11-13T19:57:18.083494800Z",
+      "guestConnection": "NOT RUN",
+      "nativeSteamHost": "PASS"
+    }
+  },
+  "upstreamContentWarnings": {
+    "sameLootTableIdsAndCausesOnFreshAndReopen": true,
+    "tableCounts": {
+      "nfm": 20,
+      "thirst": 10,
+      "sfm": 1,
+      "desolate_planet": 1
+    },
+    "thirstGlobalModifierWarnings": 15,
+    "turbineAuthorMember": "overrides/config/openloader/data/dustplanet/data/desolate_planet/loot_tables/chests/nuclear_plant/parts/turbine.json",
+    "turbineSha256": "2f2bb515694660833c69f96172c5504bc2040c3fe5b3d581eb59d2e9f5bc1067",
+    "unknownTurbineItem": "kubejs:crashed_turbine_frame",
+    "authorStartupScriptsChecked": 22,
+    "missingTurbineRegistration": true,
+    "koreanHqmAuthorMember": "overrides/kubejs/assets/hardcorequesting/lang/ko_kr.json",
+    "koreanHqmSha256": "37b1554fd82e68ad37335d76aca5b7360c701c1ae5e358be3f45a8dae816b280",
+    "koreanHqmMalformed": "Missing comma after line 320, before next property on line 322.",
+    "exactModJarSha256": {
+      "nfm": "3a7012fc1137c7a2f08539879b0e1d88e7d7c847b78abc3ed4be88843c4ce573",
+      "thirst": "803cc26575fd2051127a81ed7569bd81695086401961180bb836fff311afb1ae",
+      "sfm": "b437ea15f14e7b59907d9198bf114076fc67ab17a70121292f2a4c3aad22adb0"
+    },
+    "authoredFilesMatchPackAndNoContentEdits": true,
+    "separateAuthorOnlyNativeProcess": "NOT RUN"
+  },
+  "nativeClientExitCode": 0,
+  "realSteamGuest": "NOT RUN",
+  "computerUse": false,
+  "nativeProofSha256": "cf82fdc4023fbdb1d9a19ad1d60695e0ac054d1bce33974b7cbfd18d59641343",
+  "publicInstall": {
+    "outcome": "PASS",
+    "revision": "87b3a5f64e83de69d3a2ae1199365015269a78d6",
+    "manifestSha256": "f4b36741f076a588ee07bc81ca3ac9650752940557f914d2278c24c070e150b9",
+    "librarySha256": "7e64349832270ac426b2548689cd27430d93c8cc75244a06f0246b28e97acde7",
+    "launcherAssemblySha256": "532f9237f5c226c18bbe4fb885389ea2b13ac31de8f24932b03fb3b7d5947b4a",
+    "gameAssets": 143,
+    "gameAssetBytes": 334644875,
+    "installedFiles": 2912,
+    "installedBytes": 341783084.0
+  }
+}

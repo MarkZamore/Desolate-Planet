@@ -2,7 +2,7 @@
         Object server = onClient(this::server);
         UUID playerId = onClient(() -> (UUID) invoke(player(), "m_20148_"));
         boolean keep = !reopenLevelSha256.isEmpty();
-        String marker = keep ? "keep-inventory" : "corpse";
+        String marker = UUID.randomUUID().toString();
         Object deadPlayer = schedule((Executor) server, () -> {
             Object worldData = invoke(server, "m_129910_");
             require(Boolean.FALSE.equals(invoke(worldData, "m_5466_")), "The world is Hardcore.");
@@ -43,7 +43,9 @@
                     && Boolean.TRUE.equals(invoke(current, "m_6084_"))
                     && Boolean.FALSE.equals(invoke(current, "m_5833_"));
             });
-            return revived && onClient(() -> screen() == null);
+            return revived && onClient(() -> player() != null
+                && Boolean.TRUE.equals(invoke(player(), "m_6084_"))
+                && !type(SCREENS + "DeathScreen").isInstance(screen()));
         });
         Map<String, Object> checks = schedule((Executor) server, () -> {
             Object host = serverPlayer(server, playerId);
@@ -118,10 +120,12 @@
     private int countMarker(List<?> stacks, String marker) throws ReflectiveOperationException {
         int count = 0;
         for (Object stack : stacks) {
-            Object tag = invoke(stack, "m_41783_");
-            if (tag != null && marker.equals(invoke(tag, "m_128461_", new Class<?>[] {String.class}, "LanMcRespawnQa"))) {
-                count += (Integer) invoke(stack, "m_41613_");
-            }
+            if (hasMarker(stack, marker)) count += (Integer) invoke(stack, "m_41613_");
         }
         return count;
+    }
+
+    private boolean hasMarker(Object stack, String marker) throws ReflectiveOperationException {
+        Object tag = invoke(stack, "m_41783_");
+        return tag != null && marker.equals(invoke(tag, "m_128461_", new Class<?>[] {String.class}, "LanMcRespawnQa"));
     }

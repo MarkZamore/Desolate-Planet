@@ -1,0 +1,103 @@
+{
+  "sourceRevision": "b1d32ea2f1f01fb6dac581d8414d36032597ab63",
+  "nativeResult": "PASS",
+  "Java": "Eclipse Temurin 17.0.20.1",
+  "profile": "1.20.1-forge-47.4.20",
+  "launcherRelease": 497,
+  "launcherAssemblySha256": "532f9237f5c226c18bbe4fb885389ea2b13ac31de8f24932b03fb3b7d5947b4a",
+  "helperSha256": "c9814538edb94a1af540c6386064bfd6e4d639f2ef55b4765c6da507bf355cf8",
+  "agentSha256": "aad9978a566e020e51a0413337b771980c94b5517831ee2569893bf767ac85fe",
+  "nativeExit": 0,
+  "events": [
+    {
+      "kind": "world_reopened",
+      "utc": "2026-11-14T18:56:45.184781200Z",
+      "commands": false,
+      "gameMode": "SURVIVAL"
+    },
+    {
+      "kind": "native_book_locales",
+      "utc": "2026-11-14T18:56:51.157612100Z",
+      "en_us": {
+        "buildingGadgets": "Basics",
+        "industrialForegoing": "Fluid Collector",
+        "pneumaticCraft": "Crude Oil",
+        "materialsAndYou": "Recycling Tools",
+        "appliedEnergisticsGuide": "en_us",
+        "compiledAe2Pages": 119,
+        "guideAddOnPages": {
+          "ae2netanalyser:ae2_network_analyser.md": "en_us"
+        },
+        "hqmGatheringSupplies": "Gathering Supplies",
+        "hqmMatReport": "MAT STATUS REPORT",
+        "hqmSavedTitles": [
+          "Basic Survival",
+          "The Food Pyramid",
+          "Like Clockwork",
+          "Under Pressure",
+          "Salvage Operation",
+          "Technological Revolution",
+          "To Infinity and Beyond"
+        ],
+        "hqmChapters": [
+          "1. Basic Survival",
+          "2. The Food Pyramid",
+          "3. Like Clockwork",
+          "4. Under Pressure",
+          "5. Salvage Operation",
+          "6. Technological Revolution",
+          "7. To Infinity and Beyond"
+        ]
+      },
+      "ru_ru": {
+        "buildingGadgets": "Основы",
+        "industrialForegoing": "Жидкостный собиратель",
+        "pneumaticCraft": "Сырая нефть",
+        "materialsAndYou": "Разборка инструментов",
+        "appliedEnergisticsGuide": "ru_ru",
+        "compiledAe2Pages": 119,
+        "guideAddOnPages": {
+          "ae2netanalyser:ae2_network_analyser.md": "ru_ru"
+        },
+        "hqmGatheringSupplies": "Сбор припасов",
+        "hqmMatReport": "ОТЧЁТ ТЕРМИНАЛА MAT",
+        "hqmSavedTitles": [
+          "Basic Survival",
+          "The Food Pyramid",
+          "Like Clockwork",
+          "Under Pressure",
+          "Salvage Operation",
+          "Technological Revolution",
+          "To Infinity and Beyond"
+        ],
+        "hqmChapters": [
+          "1. Основы выживания",
+          "2. Пищевая пирамида",
+          "3. Как часы",
+          "4. Под давлением",
+          "5. Поиски в руинах",
+          "6. Технологическая революция",
+          "7. К бесконечности и дальше"
+        ]
+      }
+    },
+    {
+      "kind": "complete",
+      "utc": "2026-11-14T18:56:59.122217300Z",
+      "nativeSteam": "NOT RUN",
+      "nativeRespawn": "PASS"
+    }
+  ],
+  "release": {
+    "result": "PASS",
+    "revision": "b1d32ea2f1f01fb6dac581d8414d36032597ab63",
+    "publicAssets": 149,
+    "publicGameFiles": 3394,
+    "publicAssetBytes": 335338310,
+    "candidateManifestSha256": "00845ead63531564c0adefba9134c6c75f83f6d0b2c80a2af3ab25d2fcf95c42",
+    "checkedBodies": true,
+    "publishedManifestVerified": true
+  },
+  "knownGuideWarning": "Missing inherited ae2:ender_dust recipe in English and Russian",
+  "earlierAttempt": "Probe initially counted the Analyzer add-on as a second base page. Test corrected and add-on translated, then rerun."
+}

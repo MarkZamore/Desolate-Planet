@@ -1,0 +1,18 @@
+Анализатор МЭ-сети. Русская версия страницы руководства.
+
+Оригинал создан для AE2 Network Analyser (GlodBlock, при участии bdew).
+Перевод подготовлен 14 ноября 2026 года. Структура страницы, привязки
+к предмету и ссылки на изображения сохранены из авторского JAR.
+Изменена текстовая часть страницы. Изображения остаются в авторском JAR.
+
+Авторский выпуск AE2NetworkAnalyzer-1.20-1.0.6-forge.jar:
+https://www.curseforge.com/minecraft/mc-mods/ae2-network-analyser/files/5107131
+SHA-256 JAR: 9c10ab288402b6a01815d58029298fc56dd482f045511ad35104b17e9b6c4393.
+
+Авторский JAR и страница проекта указывают GNU LGPL версии 3.
+Перевод распространяется по этой же лицензии. Тексты лицензии:
+LICENSE-AE2NetworkAnalyzer-LGPL-3.0.txt и LICENSE-AE2NetworkAnalyzer-GPL-3.0.txt.
+
+Предпочтительная форма для редактирования:
+kubejs/assets/ae2netanalyser/ae2guide/_ru_ru/ae2_network_analyser.md
+Репозиторий перевода: https://github.com/MarkZamore/Desolate-Planet

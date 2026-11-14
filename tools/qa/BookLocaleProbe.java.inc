@@ -8,11 +8,24 @@
             Class<?> resourceManager = type("net.minecraft.server.packs.resources.ResourceManager");
             Class<?> patchouliRegistry = type("vazkii.patchouli.client.book.ClientBookRegistry");
             Object patchouli = patchouliRegistry.getField("INSTANCE").get(null);
+            Class<?> questBook = type("hardcorequesting.common.forge.client.interfaces.GuiQuestBook");
+            var bookConstructor = questBook.getDeclaredConstructor(type("net.minecraft.world.entity.player.Player"), boolean.class);
+            bookConstructor.setAccessible(true);
+            Object book = bookConstructor.newInstance(player(), false);
+            field(questBook, "f_96547_").set(book, field(client.getClass(), "f_91062_").get(client));
+            String graphics = "hardcorequesting.common.forge.client.interfaces.graphic.";
+            Object frontPage = type(graphics + "MainPageGraphic").getConstructor(questBook).newInstance(book);
+            Class<?> setsPage = type("hardcorequesting.common.forge.client.BookPage$SetsPage");
+            Object chapters = type(graphics + "QuestSetsGraphic").getConstructor(setsPage, questBook)
+                .newInstance(setsPage.getField("INSTANCE").get(null), book);
             var results = new LinkedHashMap<String, Object>();
             try {
-                for (String locale : List.of("en_us", "ru_ru")) {
+                for (String locale : List.of("en_us", "ru_ru", "en_us")) {
                     reloadBookLanguage(manager, resourceManager, resources, patchouli, locale);
-                    results.put(locale, readBookSamples(locale, resources));
+                    Map<String, Object> sample = readBookSamples(locale, resources);
+                    sample.putAll(readHqmFrontPage(locale, frontPage, chapters));
+                    Object previous = results.put(locale, sample);
+                    require(previous == null || previous.equals(sample), "Book locale results changed when returning to English.");
                 }
             } finally {
                 reloadBookLanguage(manager, resourceManager, resources, patchouli, original);
@@ -81,6 +94,23 @@
         require(invoke(guide, "getPage", new Class<?>[] {resourceLocation}, bookLocation("ae2:index.md")) != null,
             "AE2 GuideME index could not be compiled.");
         actual.put("appliedEnergisticsGuide", locale);
+        int pages = 0;
+        var addOnPages = new LinkedHashMap<String, Object>();
+        for (Object parsed : (java.util.Collection<?>) invoke(guide, "getPages")) {
+            Object id = invoke(parsed, "getId");
+            String language = (String) invoke(parsed, "getLanguage");
+            if (id.toString().startsWith("ae2:")) {
+                expectBookText("AE2 page " + id, language, locale);
+                pages++;
+            } else {
+                addOnPages.put(id.toString(), language);
+            }
+            require(invoke(guide, "getPage", new Class<?>[] {resourceLocation}, id) != null,
+                "AE2 GuideME could not compile " + id);
+        }
+        require(pages == 119, "Unexpected AE2 guide page count: " + pages);
+        actual.put("compiledAe2Pages", pages);
+        actual.put("guideAddOnPages", addOnPages);
 
         Class<?> hqm = type("hardcorequesting.common.forge.quests.QuestSetsManager");
         Object questManager = invoke(hqm, null, "getInstance", new Class<?>[0]);
@@ -95,6 +125,43 @@
 
     private Object bookLocation(String id) throws ReflectiveOperationException {
         return type("net.minecraft.resources.ResourceLocation").getConstructor(String.class).newInstance(id);
+    }
+
+    private Map<String, Object> readHqmFrontPage(String locale, Object frontPage, Object chapters) throws Exception {
+        var lines = new StringJoiner(" ");
+        for (Object line : (List<?>) invoke(frontPage, "getDescriptionLines")) {
+            lines.add((String) invoke(line, "getString"));
+        }
+        String visible = lines.toString();
+        boolean russian = locale.equals("ru_ru");
+        String header = russian ? "ОТЧЁТ ТЕРМИНАЛА MAT" : "MAT STATUS REPORT";
+        require(visible.contains(header) && visible.contains("4en3SpWtJg") && visible.contains("Iskandar"),
+            "HQM did not wrap the whole " + locale + " MAT report.");
+        Class<?> questType = type("hardcorequesting.common.forge.quests.Quest");
+        String original = (String) invoke(questType, null, "getRawMainDescription", new Class<?>[0]);
+        require(original.contains("MAT STATUS REPORT") && !original.contains("ОТЧЁТ"),
+            "HQM changed the stored English MAT report.");
+
+        Class<?> setsManager = type("hardcorequesting.common.forge.quests.QuestSetsManager");
+        Object manager = invoke(setsManager, null, "getInstance", new Class<?>[0]);
+        List<?> sets = (List<?>) setsManager.getField("questSets").get(manager);
+        List<String> saved = List.of("Basic Survival", "The Food Pyramid", "Like Clockwork", "Under Pressure",
+            "Salvage Operation", "Technological Revolution", "To Infinity and Beyond");
+        List<String> displayed = russian ? List.of("Основы выживания", "Пищевая пирамида", "Как часы", "Под давлением",
+            "Поиски в руинах", "Технологическая революция", "К бесконечности и дальше") : saved;
+        require(sets.size() == saved.size(), "Unexpected chapter count in the real HQM quest book.");
+        var chapterLabel = java.util.Arrays.stream(chapters.getClass().getDeclaredMethods())
+            .filter(method -> method.getName().endsWith("desolateHqm$chapterLabel"))
+            .findFirst().orElseThrow(() -> new IllegalStateException("HQM chapter renderer mixin did not apply."));
+        chapterLabel.setAccessible(true);
+        var titles = new ArrayList<String>();
+        for (int index = 0; index < sets.size(); index++) {
+            Object set = sets.get(index);
+            expectBookText("Saved HQM title", (String) invoke(set, "getName"), saved.get(index));
+            String expected = (index + 1) + ". " + displayed.get(index);
+            titles.add(expectBookText("Rendered HQM title", (String) chapterLabel.invoke(chapters, set, index), expected));
+        }
+        return Map.of("hqmMatReport", header, "hqmChapters", titles, "hqmSavedTitles", saved);
     }
 
     private String patchouliEntryName(String bookId, String entryId) throws Exception {

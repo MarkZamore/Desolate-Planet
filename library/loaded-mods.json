@@ -440,6 +440,13 @@
       "version": "5.14.1+1.20.1"
     },
     {
+      "id": "desolate_hqm_localization",
+      "name": "Desolate Planet HQM Localization",
+      "nativeSourceFile": "desolate-hqm-localization-1.0.0.jar",
+      "source": "mods/desolate-hqm-localization-1.0.0.jar",
+      "version": "1.0.0"
+    },
+    {
       "id": "diet",
       "name": "Diet",
       "nativeSourceFile": "diet-forge-3.0.2+1.20.1.jar",
@@ -1399,6 +1406,7 @@
     "mods/crust-1.20.1-4.17.28.jar": "5aa147502f0bd4706025a624419dd00f3f5f2799f72a6305a61159949a341145",
     "mods/curios-forge-5.14.1+1.20.1.jar": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
     "mods/cwb-forge-3.0.0+mc1.20.jar": "97b0827f20b6213c97d2244f7da205d85ffa72e51fa167d69466b49018532478",
+    "mods/desolate-hqm-localization-1.0.0.jar": "c9814538edb94a1af540c6386064bfd6e4d639f2ef55b4765c6da507bf355cf8",
     "mods/diet-forge-3.0.2+1.20.1.jar": "69f5b487ba7713c3c789b45100e8aa1de88661b01183a4285d515a4fe0f781d1",
     "mods/dummmmmmy-1.20-2.0.12-forge.jar": "bd7f168ec56f14a25d36d9d0dc4d281e88f77b1ba678907b5c570e5c051a5ca4",
     "mods/elevatorid-1.20.1-1.9.1-forge.jar": "7487c091bc8e6ae7b83c61471c97258b380fab2a0f421ed84df78f92ba630f75",

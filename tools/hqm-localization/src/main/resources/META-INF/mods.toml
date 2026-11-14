@@ -1,0 +1,25 @@
+modLoader = "javafml"
+loaderVersion = "[47,48)"
+license = "MIT AND CC-BY-NC-SA-4.0"
+
+[[mods]]
+modId = "desolate_hqm_localization"
+version = "1.0.0"
+displayName = "Desolate Planet HQM Localization"
+displayURL = "https://github.com/MarkZamore/Desolate-Planet/tree/main/tools/hqm-localization"
+displayTest = "IGNORE_ALL_VERSION"
+description = "Shows localized chapter names and the MAT report in the Desolate Planet quest book."
+
+[[dependencies.desolate_hqm_localization]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.desolate_hqm_localization]]
+modId = "hardcorequesting"
+mandatory = true
+versionRange = "[1.20.1-5.16.0]"
+ordering = "NONE"
+side = "CLIENT"

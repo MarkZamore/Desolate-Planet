@@ -108,6 +108,106 @@
       }
     },
     {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/autocrafting.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 17884,
+        "sha256": "d5a042b87c4ceb02998769e241574b985e95f32aa5cf3b67644e344b0ad90261"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/bytes-and-types.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 5876,
+        "sha256": "e6e531fdeec8a6fc456bd039152edf14a5d463f8c24651b0fa769df59f46e4fb"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/cable-subparts.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 938,
+        "sha256": "e02d9ffc3032fd95e4d1908513af93a05a37bfa606362d19fe76fbfa32e819c9"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/certus-growth.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3452,
+        "sha256": "e86666e5c06fb3ef2fc74b461feb4a73b485776fc293d6b6cb3b2ac0a7307abf"
+      }
+    },
+    {
       "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/channels.md",
       "inputs": {
         "mods/appliedenergistics2-forge-15.4.10.jar": {
@@ -258,6 +358,206 @@
       }
     },
     {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/p2p-tunnels.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 209,
+        "sha256": "0fd853558ddafe40a8761f6dae7fc5fc949571a896c2ef45d76c394fd78f0338"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/quantum-bridge.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 268,
+        "sha256": "166de582edd73ecdbe2e7dd1a94f6807078f8ff4772e8cab53e87b1eed2f8d7d"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/spatial-io.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 8102,
+        "sha256": "fb1754a40a6cc81b626992cca0f8da54872288132cf48ed7909d9980fde134d5"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/subnetworks.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 4444,
+        "sha256": "b3f6448e800eed733fe3c50b15f59fc43b7e0ae135ae3ef0b1b298bcc3936f97"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/advanced-certus-farm.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 9815,
+        "sha256": "a85bee0f0806ec3e493ee4862b2f24f9f5956458b765c2d549c8c8824a9e3f6d"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/amethyst-farm.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 6138,
+        "sha256": "6ec77824255ad0e5039625fab2723da8ab9d640e19d814ea04274e5dbe0e9c0e"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/cell-dumper-filler.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 4185,
+        "sha256": "f7d229faac31c82e333daf3e156fa1ac9fd5df6195cbd133f46a1709a3d33585"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/charger-automation.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3436,
+        "sha256": "952f01fce7797dcd550785d5c8c28b98b96572b8822a484d68f394b46e70701d"
+      }
+    },
+    {
       "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/example-setups-index.md",
       "inputs": {
         "mods/appliedenergistics2-forge-15.4.10.jar": {
@@ -280,6 +580,81 @@
       "output": {
         "sizeBytes": 109,
         "sha256": "bfecedd491cf028b47ac5665c0b4e4c9ed3560f9d288f8c3a69462e9a7c7d10d"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/furnace-automation.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 5135,
+        "sha256": "49fc085f967156098e5818a77b5676974a4addcb302162d31bc724f5c2e2fa05"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/interface-autostocking.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3230,
+        "sha256": "42f1d265111d766816ccdc6dd3222de7c51192e5d0e3761a2b1583577ce68820"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/level-emitter-autostocking.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3953,
+        "sha256": "1421f8d9dfea991ca4a983050609a99e216bb076205ff359e3ab53f7a91a1925"
       }
     },
     {
@@ -308,6 +683,206 @@
       }
     },
     {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/ore-fortuner.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3920,
+        "sha256": "051ab5714416501dbd2d3c433cde8f16864443eceac4a5a3e62d508cffa0e201"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/pipe-subnet.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 11291,
+        "sha256": "3e4a2cdbdb6f37e7d2813f47e98cf086ded43b25d55025a8b5f138244241119c"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/processor-automation.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 12197,
+        "sha256": "f20276364d0d8d1cb1ab3d3abde84bbfee677ba8b7bb8a5846ae9b75b5dd0609"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/regulated-cobble-gen.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 5794,
+        "sha256": "31072ba65e72fa640fb4bbbe24ab018d0c740183859425f99bb20ec45fecab15"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/semiauto-certus-farm.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 9326,
+        "sha256": "93a76e6c8bc64a197df495f4cdf92f964ddbbc8ba45eeef443921ca8ce2a2fd9"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/simple-certus-farm.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 4355,
+        "sha256": "4009c893ab1158b320b4a96004f205c36aafb1add04a0ba2313dffa63320e214"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/specialized-local-storage.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 4962,
+        "sha256": "1f7d11960c205a90623eca3df55572a1f775d56023325758fa3c860b465f7f5b"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/example-setups/throw-in-water-automation.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 6050,
+        "sha256": "f4d964a392f9db044e3a1492abd092b6d603cf44e1dcb74b411751e4d3133832"
+      }
+    },
+    {
       "path": "kubejs/assets/ae2/ae2guide/_ru_ru/getting-started.md",
       "inputs": {
         "mods/appliedenergistics2-forge-15.4.10.jar": {
@@ -329,7 +904,7 @@
       },
       "output": {
         "sizeBytes": 13044,
-        "sha256": "9a279b097344b021a1fde35e37cdb8cc7075a066a8db16ce0bc255c779c63cdf"
+        "sha256": "5e3a3a81a38e8b810e8071e54e9e24caaf6136dcf1880f8a4095685580f1d3f4"
       }
     },
     {
@@ -358,6 +933,906 @@
       }
     },
     {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/annihilation_plane.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3663,
+        "sha256": "d1143795049bbd68faa570f879e21a318aeca04b95d7db75dcaf617715d8e6c7"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/budding_certus.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3050,
+        "sha256": "18014b00bb92f7aeb5b97e28c0638bad9eb9312a946d7282debc031736231fee"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/cable_anchor.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1144,
+        "sha256": "7b5aafeabf98f6b42d6d6d5502e458f2696398e3f8c14c8b6a0fbfb6a0c471f2"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/cables.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 8656,
+        "sha256": "7c42afecc1d98c70a2c771ddb680455fff808ff4ddf976324a83a3e92d124513"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/cell_workbench.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1523,
+        "sha256": "3fe3587e4966efa20b76c2584306be894b15573650d5953036667724ab1783a3"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/certus_quartz_crystal.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1064,
+        "sha256": "fe019a002c05b463500bceccab9f76da7db4d0a0996b9eb57f06c2317ac5c57c"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/certus_quartz_crystal_charged.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 882,
+        "sha256": "11b19ba00d95d1aa06b53e6a8e62b96a3edb6ce362493af77cfcfc98d339e26e"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/certus_quartz_dust.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 705,
+        "sha256": "46d64eece395ceb733801584bfd2a67344b10f9c9c26bcc5c8fac639cbd7cb5b"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/charged_staff.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 669,
+        "sha256": "6122d11eff2b30914abf5cab03fc1632aa95679b024bc88819ab267102acf699"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/charger.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2099,
+        "sha256": "b85b57022497b97c63b8d180c76442eadb708dd3d36e0a4cd5eb7ee7d1129575"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/chest.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 4466,
+        "sha256": "3c39ae011a3892f87d782362fe8f3d0a6b393db1eb1c90b8a3df2ede477d4e4c"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/color_applicator.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2314,
+        "sha256": "79d410f3336c5019e721bb3f78d2e97b987fae06168d5b28f937d98fded012ae"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/condenser.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2204,
+        "sha256": "316ea159220afe521fc0007bbf871826112d7028c2aae025bd38376d93610075"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/controller.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2824,
+        "sha256": "a49333fc45b6122dae2f5703f66ebed72a5d62f00c83833cf423732031832d47"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/crafting_cpu_multiblock.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 5276,
+        "sha256": "28ef587c161aca4d796ba63f3c77b53b35b726918e5d2470ceef92844abee986"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/crank.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 655,
+        "sha256": "d75a75a5b04e625ee5ba24839aecf94813673c5a0d86e9f933714e58dc3cc29b"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/cutting_knives.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1051,
+        "sha256": "d6c80fbe5283a003e5f32f6e04eb8ed066701b6af4059b5deac38a9f0827fa54"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/decorative_certus.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2420,
+        "sha256": "3f98c0a554ab730202b7776f78538e26f3819e997b89c4c649ba4491d98d735a"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/decorative_fluix.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 852,
+        "sha256": "a7d1a3ad6bcd155c4daf0bfb20a502b38e5b03e64c13c7ee6dcba307eec26060"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/decorative_sky_stone.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2144,
+        "sha256": "924471039ee13c510892fb775f17ccf54c6a1207383e2f948de982d23e6b5349"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/drive.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2774,
+        "sha256": "ad864b73a6831c6c809fd05b47bc71d77a86ab8c3d1877fe474086b79f733b31"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/ender_dust.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 643,
+        "sha256": "9485505348809bb9f240c0101af8920b64e2745399ac1599741373851963003e"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/energy_acceptor.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1808,
+        "sha256": "0ee5cb001a000e1bfb2de80d3809d553a6f06717dc6e8c95a965d8adf688703b"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/energy_cells.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2904,
+        "sha256": "1e016a02fb9dc41e2cb0da1e154a57efbb4bc70cbbe77642acf65cb2a44fe1f0"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/entropy_manipulator.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1090,
+        "sha256": "86cb1eca51e0cf88a25360427818c16e3d9f99b9d8f9bb5c606754f71b29351c"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/export_bus.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3345,
+        "sha256": "bdc702272042a843722406ab70448581c0ea6f758469eeda846a89d34150939f"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/facades.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2087,
+        "sha256": "26f9d3ff8e72e4b864ae303731a831568b02dcb646f21ff46ae80c6361d3d443"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/fluix_block.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 550,
+        "sha256": "fa3112fd97e2ddbc22a280ea05ec0aae3afa7e201dfcdce4367a628a4c236b0c"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/fluix_crystal.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1366,
+        "sha256": "a79c42e67c97f7240181360f09f5bdfce47ca9e8ba12b84ebfc9383c5c67667f"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/fluix_dust.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 683,
+        "sha256": "93bfc39a8b887bb171bf24dc371443ef30ae8bebecf610f7b314612a10824c39"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/fluix_pearl.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 615,
+        "sha256": "c35e68631758bf6da3b5e73e12f1493777d97763b4cc17d7b10c3784fe233d3d"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/fluix_tools.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1507,
+        "sha256": "7c4fb65a4f14921c2b7a7f19c66578e6813a7d102d99a741e7182a123ba367da"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/fluix_upgrade_smithing_template.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 807,
+        "sha256": "d9a3df4805d6a4e09e7f74fc59c4fac746fb00e384464f5b3b70567fa2197186"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/formation_annihilation_core.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1093,
+        "sha256": "99d0c7313300f5e2c78b580ad6dfe123b835bf0f0fc3871555df8f8956ca477f"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/formation_plane.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3617,
+        "sha256": "f822d6be46ae710383f643d10189a78340708f12f7b642ddec3f83405158b8f8"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/growth_accelerator.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1425,
+        "sha256": "7ce3b84fc5617cb30791d3d8e3af83a176670d5135d1d7928cde3415c5893585"
+      }
+    },
+    {
       "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/guide.md",
       "inputs": {
         "mods/appliedenergistics2-forge-15.4.10.jar": {
@@ -380,6 +1855,131 @@
       "output": {
         "sizeBytes": 863,
         "sha256": "a360cab412df6713100a54809b79842fa5a8f95085ebef26c032c94012252b7a"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/illuminated_panels.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 984,
+        "sha256": "719fc01cf31bf77157c3cec806b4937fe1adc61bb8b845a30c9f99309686d20f"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/import_bus.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2927,
+        "sha256": "01624a7d662c787b91941bec8b5d3f146200be9ff2af13dccc43228e5069259f"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/inscriber.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 4787,
+        "sha256": "f55fc199f7733227c7c6ef037567df9b397e4e23bee6b783924e228028489336"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/interface.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 8044,
+        "sha256": "5e9920d6d1a1b9f13a5c8516e1db28ef3e2dc717c760c7ad7cd49e5297b18a1a"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/io_port.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1847,
+        "sha256": "a983faeaf0952813aa1f0e372d1a98e057ab008dbfd921a0650e60266cdf6eb2"
       }
     },
     {
@@ -408,6 +2008,1031 @@
       }
     },
     {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/level_emitter.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 4293,
+        "sha256": "b72b6e724670c66281a134748b8c7e1039f93c28592fc8b2e4b378f21ce3dca5"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/matter_ball.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 776,
+        "sha256": "e21d87386e60bc69e042e7a495eb7356aca1bb057923dbbee7bfe84941d81d2a"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/matter_cannon.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2511,
+        "sha256": "bd8adeb17fb55f56f7bafb4709d2a0d0675af2b9078de54ac9f962e317234a2d"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/memory_card.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 915,
+        "sha256": "4e7afa4045155621c93161e602930e9113a917f70898422ac0db13f299d9d472"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/meteorite_compass.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 698,
+        "sha256": "38febfe83557af844cb8339fb42c4032522d2ba30ece2bb552f7d2d1a242df65"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/molecular_assembler.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2619,
+        "sha256": "1edaa2f60fd9d697441a5c3be3ef22b401965f24bf0ebdbe3d0390fe7da09f83"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/monitors.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2909,
+        "sha256": "d328a407bb58627020aec9945bfc32f5e2b9eb3078b2ce3838da9da761e51a1a"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/mysterious_cube.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 915,
+        "sha256": "28f153e07f64e322c7908df80fdad04ae5462be7984dcafd11625f0e244f61bf"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/network_tool.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2370,
+        "sha256": "50fe2c12b73b7106f51f382bf2321682dc9a400a4b67a1802d012f3565e430a0"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/p2p_tunnels.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 7363,
+        "sha256": "9f4b9156f51a5bcb564078e9b7dec7e22665cc701d8dcd0987aaa57672df1c90"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/paintballs.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3180,
+        "sha256": "fa3b660d836619a6f72d2d7f0693f5ea16e8c1f255cbff305b9b7d01c13b3792"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/pattern_provider.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 10456,
+        "sha256": "b586f5d2a4f77ea7f1eaba83f9f4acb6bf16dc03c895e1b3586e0ebff792adf4"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/patterns.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3618,
+        "sha256": "8b0e3d838912265ea3816aa334d6dd91cb044d60123f95304751867be726d65f"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/presses.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2212,
+        "sha256": "ad3efec3c33da58363eeeb7835406a0753c9f76d83b58287c4adfb8a0c1416ea"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/processors.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2109,
+        "sha256": "8906a7c54a0bee027b88b236302b61a9018c82c733cb0073a7a3432895b6239e"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/quantum_bridge.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2912,
+        "sha256": "b419b3a5b22d574436ef14149daf93714b5774d4fb018efb5026117f8c884894"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/quartz_block.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 674,
+        "sha256": "812ba8fff59da71743d71f6c9ff5cfadab80a353dece01fd3025f6824861f475"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/quartz_fiber.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1208,
+        "sha256": "8e3472c8080b8b51bfaac0897720722118eaa6ee214b9572a502659a610827f0"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/quartz_fixture.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 872,
+        "sha256": "d258c139041b3b0f5e2d27b48c2969a584ef2c2a54cc6beb24375b738ac5e74d"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/quartz_glass.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 744,
+        "sha256": "c8beee71c160eee6394f1e0540946b0b93b30951b0e01e17e1c6c1a2eac5b34d"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/quartz_tools.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1881,
+        "sha256": "523078281b4ea70b12aa4814d3812ab5b2d647cf11a350a128aa0617dacbc094"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/singularities.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1831,
+        "sha256": "3e3de196cf589b38032f86e6478f381d25a92ef1af9a11bdc623bfb1f6026e71"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/sky_dust.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 768,
+        "sha256": "75d5c8dd82f06e2bf4fe6f111207247f5443ea52f40c1745789b241126db131c"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/sky_stone.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 927,
+        "sha256": "5d75918ec25af41d334224b76be352a8bc6135498c84fbe18fcf3b54354de210"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/sky_stone_tank.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 495,
+        "sha256": "f0ebd2007198d5f55e96bfecb2d454ed4be8067c1c8cc25b0f6f507790b871d1"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/spatial_anchor.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2174,
+        "sha256": "992a3feec876f84560dd1d0ad03dedafea28146396bc5044cce56775a2c3168c"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/spatial_cells.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2661,
+        "sha256": "d3018b3d1a161760a4209209598085cbbcc6a7b4f062955fa7a090d7be642db3"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/spatial_io_port.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 864,
+        "sha256": "671a2dd567a8005fed5c66c3c810ca253d0dee2f173ed7af575768d2a89e2a7e"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/spatial_pylon.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 861,
+        "sha256": "59f8d9e97768bf5b6e364a1917c83d562a4dde516e5ad64d0c29f842e37a0490"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/storage_bus.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 4805,
+        "sha256": "84c74bc08c0666449381d00c221fcc524aa4cd01748d413dedb71647dd6be3c1"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/storage_cells.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 9778,
+        "sha256": "0e3e5e749ef46b6b7887bd28d60ec6db6150a65e89019ba71732e9536cf9094e"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/terminals.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 12145,
+        "sha256": "c5a8e160edc8189f6c3022eb82dead0091d66f78fc97923989e480342d5d67da"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/tiny_tnt.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 902,
+        "sha256": "b9f1ea15f1eaae39700521a129ab91783c9fce3683df583bd58f66918db14961"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/toggle_bus.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1379,
+        "sha256": "c9463a1a4c4cd71f9191da0bbc10be2cea45c7ad1adf14286d3d6d664cdf6fcf"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/upgrade_cards.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 7920,
+        "sha256": "9b0b7eb611c3ec87077bf1e009b04ed01c8efb579012fe6559527c745e178094"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/vibration_chamber.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 2294,
+        "sha256": "99160e06613c8b2547451216e519658dec8cd09f44e5ae5b8a70436f05aad14e"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/view_cell.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1103,
+        "sha256": "07039998748284578760f52b071a0711b75c9201578875067962c495842f4a35"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/wireless_access_point.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1469,
+        "sha256": "b118aad52a66fc60e5094434f9d915df564a88270a3094441780b601a397c3a7"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/wireless_receiver.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 559,
+        "sha256": "30cf2b255872bde0aea964a87abf6fec44c41eef387cda0b2385a3dcd4b13ad1"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/wireless_terminals.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 3112,
+        "sha256": "16de5fae1c137bcdae19963a348b1bc95da3b45c5f0cd1ad65b2908ac83f7cbc"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2/ae2guide/_ru_ru/items-blocks-machines/wrench.md",
+      "inputs": {
+        "mods/appliedenergistics2-forge-15.4.10.jar": {
+          "sizeBytes": 8495956,
+          "sha256": "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+          "projectId": 223794,
+          "fileId": 7148487
+        },
+        "mods/guideme-20.1.15.jar": {
+          "sizeBytes": 9414827,
+          "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
+          "projectId": 1173950,
+          "fileId": 8204776
+        },
+        "config/starterstructure/schematics/ship6.nbt": {
+          "sizeBytes": 7563,
+          "sha256": "d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d"
+        }
+      },
+      "output": {
+        "sizeBytes": 1080,
+        "sha256": "301ea2ded726e90c21d6003cf7c3a31f8d74fdf95d619952bddccc9dcd8e9047"
+      }
+    },
+    {
       "path": "kubejs/assets/ae2/ae2guide/_ru_ru/tips-and-tricks.md",
       "inputs": {
         "mods/appliedenergistics2-forge-15.4.10.jar": {
@@ -430,6 +3055,21 @@
       "output": {
         "sizeBytes": 3176,
         "sha256": "d6fab2b16e26ed99b8d124f342e7539ab03a401cf8f3f01675db238c8a64b70f"
+      }
+    },
+    {
+      "path": "kubejs/assets/ae2netanalyser/ae2guide/_ru_ru/ae2_network_analyser.md",
+      "output": {
+        "sizeBytes": 2944,
+        "sha256": "04e3341e366e920c6af2ac48e1af650642d2748e60dfb486b23b0df54161c778"
+      },
+      "inputs": {
+        "mods/AE2NetworkAnalyzer-1.20-1.0.6-forge.jar": {
+          "sizeBytes": 827642,
+          "sha256": "9c10ab288402b6a01815d58029298fc56dd482f045511ad35104b17e9b6c4393",
+          "projectId": 961856,
+          "fileId": 5107131
+        }
       }
     },
     {
@@ -9239,6 +11879,36 @@
       }
     },
     {
+      "path": "licenses/LICENSE-AE2NetworkAnalyzer-GPL-3.0.txt",
+      "output": {
+        "sizeBytes": 35149,
+        "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+      },
+      "inputs": {
+        "mods/AE2NetworkAnalyzer-1.20-1.0.6-forge.jar": {
+          "sizeBytes": 827642,
+          "sha256": "9c10ab288402b6a01815d58029298fc56dd482f045511ad35104b17e9b6c4393",
+          "projectId": 961856,
+          "fileId": 5107131
+        }
+      }
+    },
+    {
+      "path": "licenses/LICENSE-AE2NetworkAnalyzer-LGPL-3.0.txt",
+      "output": {
+        "sizeBytes": 7652,
+        "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+      },
+      "inputs": {
+        "mods/AE2NetworkAnalyzer-1.20-1.0.6-forge.jar": {
+          "sizeBytes": 827642,
+          "sha256": "9c10ab288402b6a01815d58029298fc56dd482f045511ad35104b17e9b6c4393",
+          "projectId": 961856,
+          "fileId": 5107131
+        }
+      }
+    },
+    {
       "path": "licenses/LICENSE-BuildingGadgets2.txt",
       "inputs": {
         "mods/buildinggadgets2-1.0.8.jar": {
@@ -9299,6 +11969,21 @@
       }
     },
     {
+      "path": "licenses/NOTICE-AE2NetworkAnalyzer.txt",
+      "output": {
+        "sizeBytes": 1347,
+        "sha256": "d24c5471b035966005a61e7865e6859db105d4ce421c51705ba8bf3cc485f592"
+      },
+      "inputs": {
+        "mods/AE2NetworkAnalyzer-1.20-1.0.6-forge.jar": {
+          "sizeBytes": 827642,
+          "sha256": "9c10ab288402b6a01815d58029298fc56dd482f045511ad35104b17e9b6c4393",
+          "projectId": 961856,
+          "fileId": 5107131
+        }
+      }
+    },
+    {
       "path": "licenses/NOTICE-PneumaticCraft.txt",
       "inputs": {
         "mods/pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar": {
@@ -9311,6 +11996,57 @@
       "output": {
         "sizeBytes": 1749,
         "sha256": "3ca5aad96c8524158ae9cd40b2545634783d8c469eafa710735a8f3e5bb62208"
+      }
+    },
+    {
+      "path": "mods/desolate-hqm-localization-1.0.0.jar",
+      "inputs": {
+        "mods/HQM-1.20.1-5.16.0-forge.jar": {
+          "sizeBytes": 1452133,
+          "sha256": "9b62b6dedfd51591b64ae3476c19b3f0fd9474f4cf030a5d875370d130c30865",
+          "projectId": 77027,
+          "fileId": 4826873
+        },
+        "config/hqm/default/description.txt": {
+          "sizeBytes": 1714,
+          "sha256": "6536e1a4278d4ea638861ea02eaeb9617b1190585b4403cbe0498b44bbcc1b4f"
+        },
+        "config/hqm/default/sets.json": {
+          "sizeBytes": 152,
+          "sha256": "3f344aa8bb2787457def07f2ea08780c742d68d5a76c3fa990f3d6c560820f42"
+        },
+        "config/hqm/default/sets/Basic_Survival.json": {
+          "sizeBytes": 53221,
+          "sha256": "0fac3b326224e8bc7666e121cec83808c32b9145c8b2ba2c594da3a76feb6c6d"
+        },
+        "config/hqm/default/sets/Like_Clockwork.json": {
+          "sizeBytes": 54885,
+          "sha256": "bbce82227311304bb93e25580888aa107cba448dbb4193ded0a57043a6650239"
+        },
+        "config/hqm/default/sets/Salvage_Operation.json": {
+          "sizeBytes": 31096,
+          "sha256": "f012f0a774292f35715bd30e4435242dc1534bd9dc3db864add2579716b487a2"
+        },
+        "config/hqm/default/sets/Technological_Revolution.json": {
+          "sizeBytes": 41191,
+          "sha256": "cc31bc77bceffbe256cf357cca420bfb255cdbaa3d626fac389bfacc4c54ba06"
+        },
+        "config/hqm/default/sets/The_Food_Pyramid.json": {
+          "sizeBytes": 21023,
+          "sha256": "a3c90546e7e083794bfa113bf2dc340f6ad86e69e315154b1c13f646c66bb9c3"
+        },
+        "config/hqm/default/sets/To_Infinity_and_Beyond.json": {
+          "sizeBytes": 5911,
+          "sha256": "e416801ce9f96d0c47207f50f6633d4747aeeb1749f6d68bf9b663588ae23f3e"
+        },
+        "config/hqm/default/sets/Under_Pressure.json": {
+          "sizeBytes": 33205,
+          "sha256": "451644417c6f2bbeea03a7db2673c31534f0b945c1addd66720c83fb375ba1a6"
+        }
+      },
+      "output": {
+        "sizeBytes": 15217,
+        "sha256": "c9814538edb94a1af540c6386064bfd6e4d639f2ef55b4765c6da507bf355cf8"
       }
     }
   ]

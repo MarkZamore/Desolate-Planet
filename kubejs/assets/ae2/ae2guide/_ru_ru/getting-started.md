@@ -39,7 +39,6 @@ navigation:
 <GameScene zoom="4" background="transparent">
 <ImportStructure src="assets/assemblies/budding_blocks.snbt" />
 <IsometricCamera yaw="195" pitch="30" />
-<IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
 При переходе почки на следующую стадию роста блок может потерять ступень качества, пока не станет обычным блоком истинного кварца. Чтобы восстановить растущий блок или сделать новый, бросьте его или обычный блок истинного кварца в воду вместе с одним или несколькими <ItemLink id="charged_certus_quartz_crystal" />.
@@ -52,6 +51,7 @@ navigation:
 
 <GameScene zoom="4" background="transparent">
 <ImportStructure src="assets/assemblies/budding_certus_2.snbt" />
+<IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
 Если кварца пока не хватает на <ItemLink id="energy_acceptor" /> или <ItemLink id="vibration_chamber" />, установите на ускоритель <ItemLink id="crank" /> и крутите его вручную.

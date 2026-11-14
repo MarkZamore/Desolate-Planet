@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "lanminecraft.desolate.hqm.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "MainPageGraphicMixin",
+    "QuestSetsGraphicMixin",
+    "QuestSetMapGraphicMixin"
+  ]
+}

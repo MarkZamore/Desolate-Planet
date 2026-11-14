@@ -1,0 +1,23 @@
+{
+  "name": "Вертикальная стена",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/vertical_wall.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Если смотреть на верхнюю или нижнюю грань, стена пойдёт соответственно вверх или вниз. $(br2)Если смотреть на боковую грань, стена строится вокруг выбранного блока."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Вертикальная стена",
+      "images": [
+        "buildinggadgets2:textures/book/images/vertwall2.png",
+        "buildinggadgets2:textures/book/images/vertwall4.png",
+        "buildinggadgets2:textures/book/images/vertwall3.png"
+      ],
+      "border": true,
+      "text": "Переключайте картинки стрелками"
+    }
+  ]
+}

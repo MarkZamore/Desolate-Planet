@@ -1,0 +1,13 @@
+{
+  "name": "Ведро эссенции",
+  "icon": "industrialforegoing:essence_bucket",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Жидкий опыт, который вырабатывает $(l:agr_hus/mob_crusher)разрушитель мобов$()."
+    }
+  ]
+}

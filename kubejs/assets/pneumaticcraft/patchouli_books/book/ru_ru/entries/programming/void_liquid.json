@@ -1,0 +1,19 @@
+{
+  "name": "Виджет жидкости Бездны",
+  "icon": "pneumaticcraft:textures/progwidgets/void_fluid_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Как и виджет $(l:programming/void_item)Пустой предмет/$, он немедленно и навсегда уничтожит любую жидкость в баке дрона — будьте осторожны! Настоятельно рекомендуется использовать его вместе с жидкостным фильтром $(l:programming/liquid_filter)/$. При использовании фильтра будет удалена только жидкость, разрешенная фильтром."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/void_fluid_piece.png"
+      ],
+      "text": "$(italic)Все высохло/$"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Опора для растений",
+  "icon": "pneumaticcraft:crop_support",
+  "category": "pneumaticcraft:semiblocks",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "При размещении на сельскохозяйственных угодьях $(thing)урожай/$это улучшит скорость роста этой культуры. $(thing)Зеленые частицы/$ испускаются, чтобы показать, когда $(item)Опора для растений/$ ускоряет рост.$(p)Чтобы удалить $(item)Опора для растений/$, либо сломайте блок под ним, либо $(thing)щелкните правой кнопкой мыши/$ блок с помощью $(l:tools/logistics_configurator)Конфигуратор логистикиили/$ или другого $(item)Опора для растений/$."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание опоры для урожая",
+      "recipe": "pneumaticcraft:crop_support"
+    }
+  ]
+}

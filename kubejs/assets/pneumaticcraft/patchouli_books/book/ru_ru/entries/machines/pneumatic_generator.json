@@ -1,0 +1,27 @@
+{
+  "name": "Пнемвогенератор",
+  "icon": "pneumaticcraft:pneumatic_generator",
+  "category": "pneumaticcraft:machines",
+  "flag": "pneumaticcraft:pneumaticGeneratorEnabled",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пневматический генератор может генерировать $(thing)IndustrialCraft 2 EU/$ из сжатого воздуха $(l:base_concepts/pressure)/$. Это машина второго уровня, о чем свидетельствует минимальное рабочее давление 15 бар. По умолчанию эффективность 40%, но это можно $(ttcolor)$(t:См. «I:pneumaticGeneratorEfficiency».)изменить в конфиге/$.$(p). Без каких-либо $(l:base_concepts/upgrades#speed)Speed ​​Upgrades/$выдает скорость 32 EU/тик; при одном установленном обновлении: 128 EU/тик и при двух: 512 EU/тик."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:pneumatic_generator",
+      "text": "Расход воздуха (мл/тик):$(p)$(formula) производительность / E * 400/$$(p), где $(formula)E/$ — эффективность в процентах. Например. для эффективности по умолчанию 40% и производительности 32EU/тик расход воздуха = $(formula)32 / 40 * 400 = 320 мл/тик/$."
+    },
+    {
+      "type": "text",
+      "text": "Важным фактором, влияющим на эффективность, является температура $(l:base_concepts/heat)/$генератора. Генератор должен иметь охлаждение $(thing)/$, иначе его эффективность упадет при повышении температуры до такой степени, что воздух вообще не будет генерироваться."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание пневматического генератора",
+      "recipe": "pneumaticcraft:pneumatic_generator"
+    }
+  ]
+}

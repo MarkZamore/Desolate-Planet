@@ -1,0 +1,19 @@
+{
+  "name": "Состояние: RF Виджет",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_rf_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)Состояние/$.$(p)Виджет $(thing)Condition: RF/$ позволяет (удаленно) проверить, соответствует ли уровень $(thing)Forge Energy (FE)/$ блока(ов) в подключенном Виджет $(l:programming/area)Площадь/$ соответствует настроенному порогу FE.$(p)$(italic)Несмотря на свое название, этот виджет проверяет FE, а не RF (Redstone Flux). Название историческое./$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_rf_piece.png"
+      ],
+      "text": "$(italic)Состояние: RF Widget/$"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Состояние: Виджет жидкости",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_liquid_inventory_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)Состояние/$.$(p)Виджет $(thing)Condition: Fluid/$ позволяет (удаленно) проверять резервуар(ы) или блок(ы) жидкости в подключенном виджете $(l:programming/area)Площадь/$ на наличие определенного количества жидкости. Он будет учитывать только жидкость, разрешенную подключенным виджетом $(l:programming/liquid_filter)Жидкостный фильтр/$ (опустите фильтр, чтобы разрешить каждую жидкость)."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_liquid_inventory_piece.png"
+      ],
+      "text": "$(italic)Состояние: Виджет жидкости/$"
+    }
+  ]
+}

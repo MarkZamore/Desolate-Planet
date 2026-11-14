@@ -1,0 +1,6 @@
+{
+  "name": "Транспортировка",
+  "description": "Перемещайте предметы, жидкости и сущностей.",
+  "icon": "industrialforegoing:conveyor",
+  "sortnum": 4
+}

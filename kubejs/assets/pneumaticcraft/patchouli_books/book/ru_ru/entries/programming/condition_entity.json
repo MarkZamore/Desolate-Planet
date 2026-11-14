@@ -1,0 +1,23 @@
+{
+  "name": "Условие: Виджет сущности",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_entity_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)Состояние/$.$(p)Виджет $(thing)Condition: Entity/$ позволяет подсчитывать объекты в подключенном виджете $(l:programming/area)Площадь/$. Их можно отфильтровать, подключив дополнительный виджет $(l:programming/text)Текст/$, используемый в качестве $(l:base_concepts/entity_filter)Фильтр объектов/$."
+    },
+    {
+      "type": "text",
+      "text": "Имейте в виду, что любые виджеты $(l:programming/area)Площадь/$, подключенные к этому виджету, должны иметь тип области $(thing)Коробка/$; это единственная поддерживаемая форма. Однако можно создавать разные формы, используя белый или черный список областей."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_entity_piece.png"
+      ],
+      "text": "$(italic)Условие: Виджет объекта/$"
+    }
+  ]
+}

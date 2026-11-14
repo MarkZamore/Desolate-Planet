@@ -1,0 +1,73 @@
+{
+  "name": "Гаджет копирования",
+  "sortnum": 3,
+  "category": "buildinggadgets2:gadgets",
+  "icon": "buildinggadgets2:gadget_copy_paste{energy:1000000}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот гаджет копирует постройки. Выберите режим «Копирование» в меню настроек. $(br2)Нажмите ПКМ по одному углу постройки, затем Shift + ПКМ по противоположному углу. Выбранная область будет обведена зелёным."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Копирование",
+      "images": [
+        "buildinggadgets2:textures/book/images/copy.png"
+      ],
+      "border": true,
+      "text": "Копирование постройки"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Переключитесь в режим вставки. Появится контур скопированной постройки. Точка отсчёта — блок, по которому вы нажали ПКМ при копировании. $(br2)Нажмите ПКМ, чтобы построить копию. Гаджет возьмёт материалы из инвентаря и пропустит блоки, которых не хватает."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Предпросмотр вставки",
+      "images": [
+        "buildinggadgets2:textures/book/images/paste.png"
+      ],
+      "border": true,
+      "text": "Положение будущей копии"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Чтобы узнать, какие блоки нужны, выберите «Список материалов» в меню настроек. $(br2)Список показывает, какие материалы у вас есть и каких не хватает. Его можно прокручивать и сортировать."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Список материалов",
+      "images": [
+        "buildinggadgets2:textures/book/images/materiallist.png"
+      ],
+      "border": true,
+      "text": "Необходимые материалы"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Чтобы точнее выделить область, откройте «Настройку размещения» в меню гаджета.$(br2)Кнопки «+» и «−» сдвигают начальный и конечный блоки. Зелёная рамка меняется сразу.$(br2)В режиме абсолютных координат можно ввести координаты мира."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Область копирования",
+      "images": [
+        "buildinggadgets2:textures/book/images/copy_adjustment.png"
+      ],
+      "border": true,
+      "text": "Изменение границ копирования"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Подобная настройка есть и в режиме вставки. $(br2)Здесь меняется положение начального блока. Нажимайте кнопки и наблюдайте, как контур перемещается в мире."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Положение копии",
+      "images": [
+        "buildinggadgets2:textures/book/images/paste_adjustment.png"
+      ],
+      "border": true,
+      "text": "Смещение места вставки"
+    }
+  ]
+}

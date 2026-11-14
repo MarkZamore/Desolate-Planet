@@ -1,0 +1,17 @@
+{
+  "name": "Укрепленный сундук",
+  "icon": "pneumaticcraft:reinforced_chest",
+  "category": "pneumaticcraft:machines",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Усиленный сундук/$ — это сундук с 36 слотами, который имеет устойчивость к взрыву на уровне обсидиана и сохраняет свой инвентарь при разрушении."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание усиленного сундука",
+      "recipe": "pneumaticcraft:reinforced_chest"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Солнечная батарея",
+  "icon": "pneumaticcraft:solar_cell",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:assembly_controller",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Солнечная батарея $(item)/$ используется для изготовления и ремонта солнечных компрессоров $(l:compressors/solar_compressor)/$."
+    },
+    {
+      "type": "pneumaticcraft:assembly_system",
+      "recipe": "pneumaticcraft:assembly/solar_cell"
+    }
+  ]
+}

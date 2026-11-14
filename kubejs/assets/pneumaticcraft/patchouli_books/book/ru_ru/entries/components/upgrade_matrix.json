@@ -1,0 +1,16 @@
+{
+  "name": "Улучшенная матрица",
+  "icon": "pneumaticcraft:upgrade_matrix",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:tp_plant",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Матрицу обновлений $(item)/$ можно использовать вместо $(item)Лазурит/$ для создания любых обновлений $(l:base_concepts/upgrades)/$. Преимущество использования матриц обновления заключается в значительном уменьшении использования ляписа, что может быть благом, если у вас ограниченное количество ляписа и много улучшений для изготовления."
+    },
+    {
+      "type": "pneumaticcraft:thermo_plant",
+      "recipe": "pneumaticcraft:thermo_plant/upgrade_matrix"
+    }
+  ]
+}

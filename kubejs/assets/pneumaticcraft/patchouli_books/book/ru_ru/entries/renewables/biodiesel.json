@@ -1,0 +1,17 @@
+{
+  "name": "Биодизель",
+  "icon": "pneumaticcraft:biodiesel_bucket",
+  "category": "pneumaticcraft:renewables",
+  "advancement": "pneumaticcraft:ethanol",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Биодизель/$ может быть произведено в $(l:manufacturing/fluid_mixer)Смешиватель жидкостей/$ с $(l:renewables/ethanol)Этанол/$ и $(l:renewables/vegetable_oil)Растительное масло/$. Это такое же хорошее топливо, как и обычное. $(thing)Дизель/$, но имеет то преимущество, что производится из возобновляемых источников.$(p)Биодизель также можно использовать для производства $(l:components/plastic)Пластик/$ и $(l:components/lubricant)Смазка/$ в $(thing)Термопневматический обрабатывающий завод/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:biodiesel_bucket",
+      "text": "Топливо из еды? Что не нравится?"
+    }
+  ]
+}

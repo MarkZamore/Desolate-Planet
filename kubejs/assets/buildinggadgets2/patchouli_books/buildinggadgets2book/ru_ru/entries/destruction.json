@@ -1,0 +1,26 @@
+{
+  "name": "Гаджет разрушения",
+  "sortnum": 5,
+  "category": "buildinggadgets2:gadgets",
+  "icon": "buildinggadgets2:gadget_destruction{energy:1000000}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Разрушает блоки на большой площади. Удалённые блоки $(bold)не выпадают$(clear).$(br2)Откройте меню настроек и задайте область относительно грани блока, на которую смотрите.$(br2)Если смотреть на верхнюю грань, «вверх» будет означать верх экрана."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Гаджет разрушения",
+      "images": [
+        "buildinggadgets2:textures/book/images/destruction1.png",
+        "buildinggadgets2:textures/book/images/destruction2.png"
+      ],
+      "border": true,
+      "text": "Стрелки переключают примеры выделения"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Проверьте область и нажмите ПКМ, чтобы удалить выделенные блоки. $(br2)Действие можно отменить. Гаджет восстановит удалённые блоки в мире без расхода предметов из инвентаря."
+    }
+  ]
+}

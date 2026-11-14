@@ -1,0 +1,17 @@
+{
+  "name": "Кровать гидропоники",
+  "icon": "industrialforegoing:hydroponic_bed",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 16,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "С энергией и $(6)водой$() (или $(6)лавой$() для растений Нижнего мира) машина немного ускоряет рост. $(br2)При подаче небольшого количества $(l:resource_production/ether_gas)эфира$() растения растут гораздо быстрее и высаживаются заново автоматически."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:hydroponic_bed"
+    }
+  ]
+}

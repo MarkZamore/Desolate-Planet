@@ -1,0 +1,13 @@
+{
+  "name": "Бесконечный бур",
+  "icon": "industrialforegoing:infinity_drill",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Добывает блоки по площади. Чем выше уровень бура, тем больше область добычи."
+    }
+  ]
+}

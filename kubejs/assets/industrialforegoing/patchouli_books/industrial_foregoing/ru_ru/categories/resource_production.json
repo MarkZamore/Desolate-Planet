@@ -1,0 +1,6 @@
+{
+  "name": "Производство ресурсов",
+  "description": "Добыча и переработка материалов.",
+  "icon": "industrialforegoing:water_condensator",
+  "sortnum": 5
+}

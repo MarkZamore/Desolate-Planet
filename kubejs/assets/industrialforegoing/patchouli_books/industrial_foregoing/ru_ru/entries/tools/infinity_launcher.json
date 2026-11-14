@@ -1,0 +1,13 @@
+{
+  "name": "Бесконечная пусковая установка",
+  "icon": "industrialforegoing:infinity_launcher",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Позволяет захватывать и выпускать сущностей на расстоянии. Выберите режим в интерфейсе и выстрелите. Будет использован заключатель мобов из вашего инвентаря."
+    }
+  ]
+}

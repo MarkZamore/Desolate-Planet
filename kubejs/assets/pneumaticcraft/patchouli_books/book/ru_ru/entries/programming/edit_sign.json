@@ -1,0 +1,24 @@
+{
+  "name": "Изменить виджет знака",
+  "icon": "pneumaticcraft:textures/progwidgets/edit_sign_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это отредактирует все $(item)Знаки/$ и/или $(l:machines/aphorism_tile)Плитки афоризмов/$ в подключенном $(l:programming/area)Площадь/$ на текст, указанный подключенным $(l:programming/text)Текст/$. виджет(ы).$(p)Каждый подключенный виджет $(thing)Текст/$ представляет одну строку; подключив несколько виджетов $(thing)Текст/$, вы можете установить многострочное сообщение."
+    },
+    {
+      "type": "text",
+      "title": "Переменные",
+      "text": "Вы также можете вставить значение $(l:programming/variables)переменная/$, включив в текст $(thing)${<var_name>}/$, например$(p) $(formula)Counter: ${counter}/$$(p)расширится до $(thing)Counter: 1, 2, 3/$, если для переменной $(thing)счетчик/$ установлено значение $(thing)x=1,y=2,z=3/$. Здесь также можно использовать глобальные переменные $(l:programming/variables#special)Специальный/$ и $(l:programming/variables#global)Глобальные переменные/$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/edit_sign_piece.png"
+      ],
+      "text": "$(italic)Изменить виджет знака/$"
+    }
+  ]
+}

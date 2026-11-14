@@ -1,0 +1,17 @@
+{
+  "name": "Обогатитель грязи",
+  "icon": "industrialforegoing:sludge_refiner",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 10,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Превращает $(6)осадок$() во что-нибудь полезное.$(br2)Загрузите $(6)осадок$() из $(l:agriculture_n_husbandry/plant_gatherer)сборщика растений$(), и вы получите $(6)что-нибудь$().$(br)Процесс требует $(6)1000$() RF/тик, так что запаситесь энергией."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sludge_refiner"
+    }
+  ]
+}

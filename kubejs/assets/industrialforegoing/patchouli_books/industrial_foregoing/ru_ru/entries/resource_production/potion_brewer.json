@@ -1,0 +1,17 @@
+{
+  "name": "Варщик зелий",
+  "icon": "industrialforegoing:potion_brewer",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 9,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Автоматическая варочная стойка.$(br2)При подаче $(6)энергии$() варит зелья из загруженных ингредиентов.$(br)Если в резервуаре есть $(6)вода$(), пустые бутылочки наполняются. Вода при этом не расходуется."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:potion_brewer"
+    }
+  ]
+}

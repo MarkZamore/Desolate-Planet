@@ -1,0 +1,19 @@
+{
+  "name": "Виджет экспорта объектов",
+  "icon": "pneumaticcraft:textures/progwidgets/entity_export_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)Дрон/$ перейдет к указанному $(l:programming/area)Площадь/$и удалит объект, который он несет, при условии, что это разрешено (необязательным) $(l:base_concepts/entity_filter)Фильтр объектов/$, указанным в подключенном Виджет $(l:programming/text)Текст/$.$(p)См. также виджет $(l:programming/entity_import)Импорт объекта/$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/entity_export_piece.png"
+      ],
+      "text": "$(italic)Виджет экспорта объектов/$"
+    }
+  ]
+}

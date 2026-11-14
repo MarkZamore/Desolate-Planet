@@ -1,0 +1,17 @@
+{
+  "name": "Ужасный генератор",
+  "icon": "industrialforegoing:pitiful_generator",
+  "category": "industrialforegoing:generators",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Неэффективный генератор, который сжигает обычное топливо, например уголь. $(br2)Он продолжает сжигать топливо даже при полном буфере."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:pitiful_generator"
+    }
+  ]
+}

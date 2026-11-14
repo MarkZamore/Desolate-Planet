@@ -1,0 +1,13 @@
+{
+  "name": "Бесконечная бомба",
+  "icon": "industrialforegoing:infinity_nuke",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Радиус взрыва зависит от уровня бомбы и запаса биотоплива. Взрыв не разрушает блоки на занятых чанках. $(br2)Поставьте бомбу на землю и взведите правой кнопкой мыши. Затем щёлкните по ней огнивом."
+    }
+  ]
+}

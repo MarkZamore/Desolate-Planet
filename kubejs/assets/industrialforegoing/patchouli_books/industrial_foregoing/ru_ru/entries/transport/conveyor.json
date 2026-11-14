@@ -1,0 +1,27 @@
+{
+  "name": "Конвейерная лента",
+  "icon": "industrialforegoing:conveyor",
+  "category": "industrialforegoing:transport",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Перевозит предметы, сущностей и жидкости. Для взаимодействия с миром установите $(l:conveyor_upgrades)улучшения$(). Предметы и сущности движутся вверх и вниз, жидкости — только по горизонтали. $(br2)Конвейер можно перекрасить правой кнопкой мыши с красителем."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:conveyor"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:glowstone_dust",
+      "text": "Светокамень значительно ускоряет перевозку предметов и сущностей."
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:plastic",
+      "text": "Пластик не даёт подобрать предметы, пока они лежат на конвейере."
+    }
+  ]
+}

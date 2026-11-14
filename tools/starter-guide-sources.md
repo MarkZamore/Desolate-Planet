@@ -1,0 +1,12 @@
+# Источники перевода стартовых справочников
+
+В книжной полке стартового корабля `config/starterstructure/schematics/ship6.nbt` лежат пять справочников. SHA-256 схемы `d3d37d33e0a16cf708dad59e32f1bd927be47199cd98d9f82815a8051bbfd26d`. Книгу заданий при входе отдельно выдаёт HQM через `SPAWN_BOOK`.
+
+- **Building Gadgets 2 1.0.8** (`buildinggadgets2:buildinggadgets2book`). Переведены 29 файлов, название книги и вводный текст. SHA-256 JAR `59efb399a4acdb69a01a970b1f1e3c5584495aabc726ff40857ab4aed9372c83`. [Исходники и лицензия MIT](https://github.com/Direwolf20-MC/BuildingGadgets2/tree/1.20.1).
+- **Industrial Foregoing 3.5.22** (`industrialforegoing:industrial_foregoing`). Переведены 80 файлов и вводный текст. Название уже переведено в моде. SHA-256 JAR `9220ddde2c259c8dfa5c05ad23b26650dc9b2f3048c4aca3b1d9d6f4cd211f3d`. [Исходники и лицензия MIT](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing/tree/1.20).
+- **PneumaticCraft: Repressurized 6.0.22** (`pneumaticcraft:book`). Переведены 235 файлов, название и вступление уже переведены в моде. Машинный черновик ключевых разделов отредактирован вручную. [Версия, SHA-256 и лицензия](../licenses/NOTICE-PneumaticCraft.txt).
+- **Tinkers’ Construct 3.11.2.166** (`tconstruct:materials_and_you`). Дополнены семь отсутствовавших русских страниц. Ещё 30 страниц с совпадающими путями переведены в моде. SHA-256 JAR `653b49d73481a1325ba78adc7273dee6c765a51bafdf264a7510576d6ef91c43`. [Исходники и лицензия MIT](https://github.com/SlimeKnights/TinkersConstruct/tree/1.20.1).
+
+- **Applied Energistics 2 15.4.10** (`ae2:guide`). Переведены 14 из 119 страниц, включая первые шаги, оглавление, каналы, питание и подключение МЭ-устройств. Остальные 105 страниц показываются на исходном английском. SHA-256 JAR `fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc`. GuideME 20.1.15, SHA-256 `cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a`, выбирает язык при загрузке ресурсов клиента. [Исходный текст и лицензия CC0](https://github.com/AppliedEnergistics/Applied-Energistics-2/blob/forge/v15.4.10/README.md#license).
+
+Клиентские ресурсы помещаются в `kubejs/assets`. Patchouli 85 и Mantle читают `ru_ru` по текущему языку клиента. Для названий и вступлений Patchouli строки из авторского `book.json` используются как ключи перевода. Структура книг, привязки к предметам, рецепты и ссылки сохранены, файл корабля не меняется. При обновлении модов сверяйте локализованные пути, разметку и ключи с новой версией JAR.

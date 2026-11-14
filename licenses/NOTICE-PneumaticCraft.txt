@@ -1,0 +1,22 @@
+Русское руководство PneumaticCraft: Repressurized
+
+Перевод подготовлен из английского справочника pneumaticcraft:book мода
+PneumaticCraft: Repressurized. Авторы мода — Team Pneumatic (MineMaarten и desht).
+
+Исходники версии 6.0.22 (commit 1a670d58294d7aaa9dfd84569d8ac6981bf6ab8a):
+https://github.com/TeamPneumatic/pnc-repressurized/tree/1a670d58294d7aaa9dfd84569d8ac6981bf6ab8a/src/main/resources/assets/pneumaticcraft/patchouli_books/book/en_us
+
+Авторский JAR 6.0.22 для Minecraft 1.20.1:
+https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized/files/7307654
+SHA-256: d33c6d8ca709ba9b5b238b8919a06c2b2dc3903535f452aac965a15d01713d43.
+
+Изменено 14 ноября 2026 года. Добавлены русские версии 235 файлов справочника.
+Машинный перевод проверен на сохранность структуры и разметки Patchouli.
+Названия ряда предметов и блоков взяты из русского словаря авторского мода.
+Первые шаги, получение сжатого железа, тепло, давление и инструкция по
+барокамере отредактированы вручную.
+
+Перевод справочника распространяется по GNU GPL версии 3
+(LICENSE-PneumaticCraft.txt). Предпочтительная форма перевода для редактирования —
+файлы JSON в kubejs/assets/pneumaticcraft/patchouli_books/book/ru_ru.
+Исходники перевода: https://github.com/MarkZamore/Desolate-Planet

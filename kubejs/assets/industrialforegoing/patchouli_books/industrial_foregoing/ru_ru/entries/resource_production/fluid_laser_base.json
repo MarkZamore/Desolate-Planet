@@ -1,0 +1,17 @@
+{
+  "name": "Основа жидкостного лазера",
+  "icon": "industrialforegoing:fluid_laser_base",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 15,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:resource_production/laser_drill)Лазерная дрель$() заряжает основу, после чего та добывает жидкость. Нужен катализатор, который не расходуется, а также подходящие биом и глубина. $(br2)Некоторым жидкостям нужна сущность под машиной. $(br2)Подробности в JEI."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fluid_laser_base"
+    }
+  ]
+}

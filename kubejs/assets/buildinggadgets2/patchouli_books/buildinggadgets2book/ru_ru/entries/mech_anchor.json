@@ -1,0 +1,21 @@
+{
+  "name": "Фиксация",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/anchor.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Фиксация закрепляет выбранный блок. После этого можно двигаться и осматриваться. Используйте горячую клавишу или меню настроек. $(br2)Нажмите ПКМ в любой момент, чтобы построить закреплённую конструкцию.$(br2)После изменения дальности может понадобиться снять фиксацию и включить её заново."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Фиксация",
+      "images": [
+        "buildinggadgets2:textures/book/images/anchor1.png"
+      ],
+      "border": true,
+      "text": "Закрепление контура"
+    }
+  ]
+}

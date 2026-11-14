@@ -1,0 +1,17 @@
+{
+  "name": "Рыболов",
+  "icon": "industrialforegoing:marine_fisher",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Лучший друг кошки <3$(br2)Если поставить над $(6)водоёмом$() размером минимум $(6)3×3$() и глубиной хотя бы $(6)1$() блок, машина начнёт $(6)ловить рыбу$() и складывать улов во внутренний инвентарь. Операция стоит $(6)5000$() RF."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:marine_fisher"
+    }
+  ]
+}

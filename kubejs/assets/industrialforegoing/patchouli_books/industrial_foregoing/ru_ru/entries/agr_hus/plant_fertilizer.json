@@ -1,0 +1,21 @@
+{
+  "name": "Удобритель растений",
+  "icon": "industrialforegoing:plant_fertilizer",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина $(6)удобряет$() растения костной мукой. $(br2)Она работает с одним растением, пока оно принимает удобрение. Машина может застрять на $(6)подсолнухе$() или другом растении, которое принимает муку бесконечно либо не достигает полной зрелости."
+    },
+    {
+      "type": "text",
+      "text": "Удобритель растений принимает $(br)$(li)Костную муку $(li)Удобритель"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:plant_fertilizer"
+    }
+  ]
+}

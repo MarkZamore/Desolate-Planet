@@ -1,0 +1,37 @@
+{
+  "name": "Поверхность",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/surface.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Продолжает поверхность, на которую вы смотрите. Справа показан пример.$(br2)Режим «Любые блоки» позволяет брать за основу блоки разных типов. Если его выключить, подойдут только блоки того же типа, что выбранный."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Поверхность из любых блоков",
+      "images": [
+        "buildinggadgets2:textures/book/images/surface5.png",
+        "buildinggadgets2:textures/book/images/surface1.png",
+        "buildinggadgets2:textures/book/images/surface2.png"
+      ],
+      "border": true,
+      "text": "Переключайте картинки стрелками"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Этот режим есть и у гаджета замены, и настройка «Любые блоки» работает так же. $(br2)Если включить «Только соединённые», гаджет заменит лишь блоки, образующие связанную с выбранным блоком поверхность. Примеры справа."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Связанные блоки поверхности",
+      "images": [
+        "buildinggadgets2:textures/book/images/surface3.png",
+        "buildinggadgets2:textures/book/images/surface4.png"
+      ],
+      "border": true,
+      "text": "Переключайте картинки стрелками"
+    }
+  ]
+}

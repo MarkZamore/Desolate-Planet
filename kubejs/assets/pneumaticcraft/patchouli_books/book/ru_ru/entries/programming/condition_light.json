@@ -1,0 +1,19 @@
+{
+  "name": "Состояние: Светлый виджет",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_light_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)Состояние/$.$(p)Виджет $(thing)Condition: Light/$ позволяет (удаленно) проверить, соответствует ли уровень освещенности блоков в подключенном виджете $(l:programming/area)Площадь/$ настроенному порогу освещенности."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_light_piece.png"
+      ],
+      "text": "$(italic)Состояние: Световой виджет/$"
+    }
+  ]
+}

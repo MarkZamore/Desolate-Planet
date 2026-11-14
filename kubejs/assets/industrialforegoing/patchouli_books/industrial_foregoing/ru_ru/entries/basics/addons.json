@@ -1,0 +1,33 @@
+{
+  "name": "Улучшения",
+  "icon": "industrialforegoing:range_addon11",
+  "category": "industrialforegoing:basics",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:range_addon11",
+      "title": "Дальность",
+      "text": "Расширяет рабочую зону машины. Улучшение подходит только для некоторых машин. Каждый уровень увеличивает дальность на 1."
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:speed_addon_2",
+      "title": "Скорость",
+      "text": "За тик шкала заполняется на большее число единиц. $(br2)Уровень 1 → +1$(br)Уровень 2 → +2"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:efficiency_addon_2",
+      "title": "Эффективность",
+      "text": "Операция требует меньше тиков. $(br2)Уровень 1 → −10%$(br)Уровень 2 → −20%"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:processing_addon_2",
+      "title": "Обработка",
+      "text": "После завершения цикла машина выполняет больше операций. $(br2)Уровень 1 → +1 операция $(br)Уровень 2 → +2 операции"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Бесконечный молот",
+  "icon": "industrialforegoing:infinity_hammer",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Поражает противников по площади. С ростом уровня повышается $(6)«Обезглавливание»$(), и головы мобов добывать проще."
+    },
+    {
+      "type": "text",
+      "text": "Щелчок правой кнопкой по земле создаёт перед игроком конус $(6)ударной волны$()."
+    }
+  ]
+}

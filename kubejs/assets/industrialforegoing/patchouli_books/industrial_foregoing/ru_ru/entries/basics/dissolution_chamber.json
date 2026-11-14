@@ -1,0 +1,17 @@
+{
+  "name": "Камера растворения",
+  "icon": "industrialforegoing:dissolution_chamber",
+  "category": "industrialforegoing:basics",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина создаёт материалы из $(6)8$() предметов и/или $(6)1$() жидкости. На выходе могут быть предметы и/или жидкости. $(br2)Ингредиенты можно размещать в любых ячейках. $(br2)Как только машина находит подходящий рецепт, она блокирует ячейки до конца обработки."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:dissolution_chamber"
+    }
+  ]
+}

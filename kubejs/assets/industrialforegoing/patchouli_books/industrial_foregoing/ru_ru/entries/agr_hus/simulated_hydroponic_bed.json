@@ -1,0 +1,17 @@
+{
+  "name": "Имитационная грядка",
+  "icon": "industrialforegoing:simulated_hydroponic_bed",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 16,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "При подаче энергии машина производит урожай по данным процессора симуляции гидропоники."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:simulated_hydroponic_bed"
+    }
+  ]
+}

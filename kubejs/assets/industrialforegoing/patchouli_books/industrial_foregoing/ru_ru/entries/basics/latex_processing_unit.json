@@ -1,0 +1,13 @@
+{
+  "name": "Машина по переработке латекса",
+  "icon": "industrialforegoing:latex_processing_unit",
+  "category": "industrialforegoing:basics",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Перерабатывает $(6)100$() мБ $(l:basics/latex)латекса$() и $(6)500$() мБ воды в 1 $(l:basics/plastic)кусочек сухой резины$()."
+    }
+  ]
+}

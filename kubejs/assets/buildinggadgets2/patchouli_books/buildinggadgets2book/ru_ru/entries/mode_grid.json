@@ -1,0 +1,22 @@
+{
+  "name": "Сетка",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/grid.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режим расставляет блоки сеткой. Подходит для факелов, светокамня и похожих блоков. При увеличении дальности сначала растут промежутки, затем сама площадь сетки. $(br2)Гаджет замены также может менять блоки по сетке."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Сетка",
+      "images": [
+        "buildinggadgets2:textures/book/images/mode_grid.png",
+        "buildinggadgets2:textures/book/images/mode_grid2.png"
+      ],
+      "border": true,
+      "text": "Переключайте картинки стрелками"
+    }
+  ]
+}

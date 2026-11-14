@@ -1,0 +1,17 @@
+{
+  "name": "Лазерная основа",
+  "icon": "industrialforegoing:ore_laser_base",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 14,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:resource_production/laser_drill)Лазерная дрель$() заряжает основу, после чего та добывает руды. Шанс каждой руды зависит от биома и выбранной глубины. $(br2)Линзы повышают шанс добычи подходящей руды. $(br2)Подробности в JEI."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:ore_laser_base"
+    }
+  ]
+}

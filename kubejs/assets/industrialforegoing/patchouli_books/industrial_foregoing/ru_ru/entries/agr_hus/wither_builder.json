@@ -1,0 +1,16 @@
+{
+  "name": "Постройщик визеров",
+  "icon": "industrialforegoing:wither_builder",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина призывает визеров. Подайте энергию, $(6)3 черепа скелета-визера$() и $(6)4 блока песка душ$(). Машина соберёт призывающую конструкцию в рабочей зоне."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:wither_builder"
+    }
+  ]
+}

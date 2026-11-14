@@ -1,0 +1,16 @@
+{
+  "name": "Основы",
+  "sortnum": 0,
+  "category": "buildinggadgets2:gadgets",
+  "icon": "buildinggadgets2:template",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Для большинства действий всем гаджетам нужна энергия Forge Energy (FE). $(br2)Многие моды позволяют заряжать предметы энергией Forge. Если таких модов нет, установите Charging Gadgets. Он доступен в каталогах модов!"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Удерживайте клавишу меню настроек (по умолчанию G), чтобы открыть его. $(br2)У каждого гаджета свои настройки. Подробности есть в главе $(l:buildinggadgets2:mechanics)«Механики»$(/l)."
+    }
+  ]
+}

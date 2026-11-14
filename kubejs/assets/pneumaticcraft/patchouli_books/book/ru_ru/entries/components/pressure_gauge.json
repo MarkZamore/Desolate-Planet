@@ -1,0 +1,17 @@
+{
+  "name": "Датчик давления",
+  "icon": "pneumaticcraft:pressure_gauge",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это компонент крафта для других устройств. Само по себе оно бесполезно."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание манометра",
+      "recipe": "pneumaticcraft:pressure_gauge"
+    }
+  ]
+}

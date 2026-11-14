@@ -1,0 +1,20 @@
+{
+  "name": "Растительное масло",
+  "icon": "pneumaticcraft:vegetable_oil_bucket",
+  "category": "pneumaticcraft:renewables",
+  "advancement": "pneumaticcraft:tp_plant",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Растительное масло/$ может быть произведено на установке термопневматической обработки $(l:manufacturing/thermopneumatic_processing_plant)/$ из различных семян $(thing)/$ и $(thing)/$. Семена, как правило, являются лучшим источником масла, чем выращенные культуры. Растительное масло требуется для производства $(l:renewables/biodiesel)Биодизеля/$."
+    },
+    {
+      "type": "pneumaticcraft:thermo_plant",
+      "recipe": "pneumaticcraft:thermo_plant/vegetable_oil_from_seeds"
+    },
+    {
+      "type": "pneumaticcraft:thermo_plant",
+      "recipe": "pneumaticcraft:thermo_plant/vegetable_oil_from_crops"
+    }
+  ]
+}

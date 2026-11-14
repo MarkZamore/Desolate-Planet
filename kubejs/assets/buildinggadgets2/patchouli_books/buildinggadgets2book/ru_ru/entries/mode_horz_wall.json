@@ -1,0 +1,23 @@
+{
+  "name": "Горизонтальная стена",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/horizontal_wall.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "При включённом размещении сверху гаджет строит площадку над выбранным блоком. Если смотреть на боковую грань, площадка пойдёт в вашу сторону. $(br2)При выключенной настройке площадка строится вокруг выбранного блока.$(br2)Примеры показаны справа."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Горизонтальная стена",
+      "images": [
+        "buildinggadgets2:textures/book/images/horzwall1.png",
+        "buildinggadgets2:textures/book/images/horzwall3.png",
+        "buildinggadgets2:textures/book/images/horzwall2.png"
+      ],
+      "border": true,
+      "text": "Переключайте картинки стрелками"
+    }
+  ]
+}

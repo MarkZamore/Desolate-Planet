@@ -1,0 +1,17 @@
+{
+  "name": "Флаксовый компрессор",
+  "icon": "pneumaticcraft:flux_compressor",
+  "category": "pneumaticcraft:compressors",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Флаксовый компрессор/$ преобразует $(thing)Кузница энергии/$ (совместимый с $(thing)Редстоун Флюс/$ и энергетическими системами различных других модов) в $(l:base_concepts/pressure)сжатый воздух/$. Он потребляет базовые 40 FE/тик, но может быть модернизирован с помощью $(l:base_concepts/upgrades#speed)Speed ​​Upgrades/$.$(p). Компрессор потока имеет производительность 100 000 FE и принимает FE с двойной скоростью, с которой он его использует."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание компрессора $(item)Поток/$$(p)Этот генератор должен быть $(l:base_concepts/heat)с охлаждением/$, так как его эффективность будет падать с повышением температуры вплоть до того момента, когда воздух вообще не будет генерироваться.",
+      "recipe": "pneumaticcraft:flux_compressor"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Красочный миксер",
+  "icon": "industrialforegoing:dye_mixer",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 12,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Смешивает основные цвета, чтобы получить все оттенки.$(br2)Например, для белого $(6)красителя$() нужны по одному $(4)красному$(0), $(2)зелёному$(0) и $(1)синему$(0) красителю.$(br)Расход энергии — $(6)30$() RF/тик."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:dye_mixer"
+    }
+  ]
+}

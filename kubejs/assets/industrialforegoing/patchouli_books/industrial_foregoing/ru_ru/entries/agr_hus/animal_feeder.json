@@ -1,0 +1,17 @@
+{
+  "name": "Кормилка",
+  "icon": "industrialforegoing:animal_feeder",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 8,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина $(6)кормит$() животных, если загрузить подходящую еду. Сытые животные могут размножаться."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:animal_feeder"
+    }
+  ]
+}

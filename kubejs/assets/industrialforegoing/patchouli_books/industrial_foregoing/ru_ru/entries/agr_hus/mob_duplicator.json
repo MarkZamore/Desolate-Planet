@@ -1,0 +1,20 @@
+{
+  "name": "Дубликатор мобов",
+  "icon": "industrialforegoing:mob_duplicator",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина призывает мобов вокруг себя. Нужна энергия, $(l:agr_hus/essence)эссенция$() и сущность внутри $(l:tools/mib)заключателя мобов$(). $(br2)Машина считает ближайших сущностей и останавливается, если их слишком много."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_duplicator"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

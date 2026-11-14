@@ -1,0 +1,19 @@
+{
+  "name": "Подождите, виджет",
+  "icon": "pneumaticcraft:textures/progwidgets/wait_piece.png",
+  "category": "pneumaticcraft:widget_flow",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)Дрон/$ будет ждать указанное время, ничего не делая. Время указывается путем прикрепления виджета $(l:programming/text)Текст/$ и ввода продолжительности.$(p)Принимаются следующие форматы продолжительности:$(li)$(thing)20/$: подождите 1 секунду (20 галочек)$(li)$(thing)10s/$: подождите 10 секунд$(li)$(thing)5m/$: подождите 5 минут"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/wait_piece.png"
+      ],
+      "text": "$(italic)Godot/$"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ведро осадка",
+  "icon": "industrialforegoing:sludge_bucket",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Жидкость, которую производит $(l:agr_hus/plant_gatherer)сборщик растений$(). Её перерабатывает $(l:resource_production/sludge_refiner)обогатитель грязи$()."
+    }
+  ]
+}

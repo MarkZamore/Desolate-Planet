@@ -1,0 +1,18 @@
+{
+  "name": "Жидкостный экстрактор",
+  "icon": "industrialforegoing:fluid_extractor",
+  "category": "industrialforegoing:basics",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Извлекает $(l:basics/latex)латекс$() из древесины перед машиной. С одним бревном могут работать несколько экстракторов. $(br2)Сначала машина снимает кору с бревна. Когда она переработает и обтёсанное бревно, оно исчезнет."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fluid_extractor",
+      "text": "$(br2)$(6)Выход латекса зависит от породы дерева. Подробности есть в JEI. $(6)Питание необязательно, но ускоряет работу."
+    }
+  ]
+}

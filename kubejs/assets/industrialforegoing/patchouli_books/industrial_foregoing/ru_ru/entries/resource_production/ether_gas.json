@@ -1,0 +1,13 @@
+{
+  "name": "Ведро эфира",
+  "icon": "industrialforegoing:ether_gas_bucket",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 13,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Жидкость, которую добывает $(l:resource_production/fluid_laser_base)основа жидкостного лазера$(), если поставить её прямо над визером."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Основы",
+  "sortnum": 0,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:template",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "У строительного гаджета и гаджета замены есть настройка дальности. Её смысл зависит от режима. Обычно она задаёт размер области.$(br2)Например, дальность 3 в режиме «Горизонтальный ряд» даёт три блока, по одному с каждой стороны выбранного. Чётные значения округляются."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Дальность 3",
+      "images": [
+        "buildinggadgets2:textures/book/images/horzrow4.png"
+      ],
+      "border": true,
+      "text": "Область при дальности 3"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "При дальности 3 стена получится размером 3×3. Чётные значения немного меняют высоту стены. $(br2)Проверьте результат в предпросмотре."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Дальность 3",
+      "images": [
+        "buildinggadgets2:textures/book/images/vertwall1.png"
+      ],
+      "border": true,
+      "text": "Область при дальности 3"
+    }
+  ]
+}

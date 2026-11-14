@@ -1,0 +1,13 @@
+{
+  "name": "Ведро грязи",
+  "icon": "industrialforegoing:sewage_bucket",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 13,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Жидкость, которую собирает $(l:agr_hus/sewer)сборщик мусора$(). Лучше не спрашивайте, из чего она."
+    }
+  ]
+}

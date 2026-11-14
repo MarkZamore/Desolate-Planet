@@ -1,0 +1,17 @@
+{
+  "name": "Мясной кормитель",
+  "icon": "industrialforegoing:meat_feeder",
+  "category": "industrialforegoing:tools",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пока предмет лежит в инвентаре, он кормит игрока запасённым жидким мясом."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:meat_feeder"
+    }
+  ]
+}

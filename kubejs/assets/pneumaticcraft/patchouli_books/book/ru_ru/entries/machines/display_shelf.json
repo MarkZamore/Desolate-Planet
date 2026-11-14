@@ -1,0 +1,17 @@
+{
+  "name": "Витринная полка",
+  "icon": "pneumaticcraft:display_shelf",
+  "category": "pneumaticcraft:machines",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Полка $(item)Дисплей/$ функционирует точно так же, как ее старший брат $(l:machines/display_table)Индикаторный экран/$, но имеет половинную высоту. Кроме того, он не будет отображать свои ноги, если у блока под ним нет сплошной верхней грани."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание полки-витрины",
+      "recipe": "pneumaticcraft:display_shelf"
+    }
+  ]
+}

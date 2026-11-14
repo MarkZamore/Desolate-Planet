@@ -1,0 +1,17 @@
+{
+  "name": "Сборщик мусора",
+  "icon": "industrialforegoing:sewer",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 12,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Собирает $(l:agr_hus/sewage)грязь$() от животных, а также подбирает опыт и превращает его в эссенцию."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sewer"
+    }
+  ]
+}

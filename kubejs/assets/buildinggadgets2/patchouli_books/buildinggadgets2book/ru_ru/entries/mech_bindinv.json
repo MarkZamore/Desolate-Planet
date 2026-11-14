@@ -1,0 +1,34 @@
+{
+  "name": "Привязка к хранилищу",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/bind_inventory.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Гаджет может брать предметы из хранилища и складывать их обратно. Выберите «Привязка к хранилищу» в меню, затем нажмите Shift + ПКМ по сундуку. $(br2)Синяя рамка подтвердит привязку. Чтобы её снять, нажмите Shift + ПКМ по блоку без инвентаря."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Привязка к хранилищу",
+      "images": [
+        "buildinggadgets2:textures/book/images/bindinv.png"
+      ],
+      "border": true,
+      "text": "Привязка к сундуку"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Гаджет можно привязать и к сети Applied Energistics 2 через её беспроводную точку доступа. $(br2)Дальность действия гаджета при этом не ограничена. Улучшения дальности не нужны."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Привязка к хранилищу",
+      "images": [
+        "buildinggadgets2:textures/book/images/bindinv_ae.png"
+      ],
+      "border": true,
+      "text": "Привязка к сети AE2"
+    }
+  ]
+}

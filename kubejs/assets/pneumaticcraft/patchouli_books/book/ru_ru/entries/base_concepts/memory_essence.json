@@ -1,0 +1,16 @@
+{
+  "name": "Сущность памяти",
+  "icon": "pneumaticcraft:memory_essence_bucket",
+  "category": "pneumaticcraft:base_concepts",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Сущность памяти/$ — это жидкость, которая представляет воспоминания и опыт игрока в жидкой форме. Его можно извлечь и сохранить для последующего использования либо для ванильного зачарования, либо для определенных процессов крафта $(pncr).$(p)Есть два способа получить $(item)Сущность памяти/$:$(li)1. С картой памяти $(l:tools/memory_stick)Карта памяти/$$(li)2. С воздушным интерфейсом $(l:machines/aerial_interface)/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:memory_essence_bucket",
+      "text": "$(italic)У вас есть опыт/$"
+    }
+  ]
+}

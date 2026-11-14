@@ -1,0 +1,22 @@
+{
+  "name": "Логистический пневмоключ",
+  "icon": "pneumaticcraft:logistics_configurator",
+  "category": "pneumaticcraft:logistics",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Основная цель конфигуратора логистики $(item)/$ — помочь с настройкой системы логистики $(l:logistics/overview)/$.$(p). С помощью $(thing)щелкните правой кнопкой мыши/$ на любом $(l:logistics/frames)Logistic. Frame/$ позволяет настраивать различные фильтры.$(p)$(thing)Скрытый щелчок правой кнопкой мыши/$ удаляет рамку из инвентаря, к которому она прикреплена."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:logistics_configurator",
+      "text": "Конфигуратор логистики $(item)/$ также можно использовать для удаления (с помощью $(thing), щелкнув правой кнопкой мыши/$) других подключаемых гаджетов, таких как $(l:semiblocks/transfer_gadget)Гаджет передачи/$ и $(l:semiblocks/crop_support)Crop. Поддержка/$."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание логистического конфигуратора",
+      "recipe": "pneumaticcraft:logistics_configurator"
+    }
+  ]
+}

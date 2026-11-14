@@ -1,0 +1,17 @@
+{
+  "name": "Заключатель мобов",
+  "icon": "industrialforegoing:mob_imprisonment_tool",
+  "category": "industrialforegoing:tools",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Щёлкните $(6)правой кнопкой мыши$() по сущности с заключателем в руке, чтобы поймать её. $(br2)Чтобы выпустить сущность, щёлкните $(6)правой кнопкой мыши$() по земле."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

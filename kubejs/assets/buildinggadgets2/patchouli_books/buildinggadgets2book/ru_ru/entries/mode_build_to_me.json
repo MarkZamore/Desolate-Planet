@@ -1,0 +1,21 @@
+{
+  "name": "Ко мне",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/build_to_me.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот режим строит ряд от выбранной грани блока к игроку. Ряд может быть вертикальным или горизонтальным.$(br2)Настройка дальности здесь не используется.$(br2)Если включить «Размещение сверху», ряд пойдёт к голове игрока, а не к ногам."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Ко мне",
+      "images": [
+        "buildinggadgets2:textures/book/images/ghost_render.png"
+      ],
+      "border": true,
+      "text": "Строительство в сторону игрока"
+    }
+  ]
+}

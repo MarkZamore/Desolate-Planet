@@ -1,0 +1,22 @@
+{
+  "name": "Пневмодинамо",
+  "icon": "pneumaticcraft:pneumatic_dynamo",
+  "category": "pneumaticcraft:machines",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Пневматическая динамо/$ преобразует $(l:base_concepts/pressure)сжатый воздух/$ в $(thing)Кузница энергии/$, который совместим с $(thing)Редстоун Флюс/$ и энергетическими системами других модов. По умолчанию он производит 40 FE/тик, но его можно обновить с помощью $(l:base_concepts/upgrades#speed)Speed ​​Upgrades/$. Производительность FE компрессора $(item)Флаксовый компрессор/$ в два раза превышает текущий объем производства FE; По умолчанию 80 FE/тик, но его можно увеличить с помощью улучшений скорости."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:pneumatic_dynamo",
+      "text": "Важным фактором, влияющим на эффективность, является температура $(l:base_concepts/heat)Динамо/$. Динамо должно иметь охлаждение $(thing)/$, иначе его эффективность упадет при повышении температуры до такой степени, что воздух вообще не будет генерироваться."
+    },
+    {
+      "type": "crafting",
+      "text": "Изготовление пневматической динамо-машины",
+      "recipe": "pneumaticcraft:pneumatic_dynamo"
+    }
+  ]
+}

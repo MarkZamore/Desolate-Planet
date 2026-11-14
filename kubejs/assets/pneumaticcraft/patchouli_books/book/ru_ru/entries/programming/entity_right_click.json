@@ -1,0 +1,19 @@
+{
+  "name": "Виджет объекта, щелкните правой кнопкой мыши",
+  "icon": "pneumaticcraft:textures/progwidgets/entity_right_click_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)Дрон/$ $(thing)щелкнет правой кнопкой мыши/$ по предмету в первом слоте инвентаря для каждого объекта в указанной $(l:programming/area)Площадь/$один раз. Его можно использовать для стрижки овец, дойных коров, разведения животных и многого другого!$(p)Имейте в виду, что любые виджеты $(l:programming/area)Площадь/$, подключенные к этому виджету, должны иметь тип области $(thing)Коробка/$; это единственная поддерживаемая форма. Однако можно создавать разные формы, используя белый или черный список областей."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/entity_right_click_piece.png"
+      ],
+      "text": "$(italic)Poke/$"
+    }
+  ]
+}

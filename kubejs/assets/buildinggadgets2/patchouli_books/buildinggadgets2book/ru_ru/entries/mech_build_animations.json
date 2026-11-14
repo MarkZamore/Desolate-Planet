@@ -1,0 +1,12 @@
+{
+  "name": "Анимации строительства",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/raytrace_fluid.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "У каждого гаджета можно выбрать анимацию размещения блоков. По умолчанию используется «Рост». Попробуйте разные варианты.$(br2)Настройка меняет только внешний вид анимации, сама работа гаджета остаётся прежней."
+    }
+  ]
+}

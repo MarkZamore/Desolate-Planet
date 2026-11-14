@@ -1,0 +1,17 @@
+{
+  "name": "Чертеж печатной платы",
+  "icon": "pneumaticcraft:pcb_blueprint",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Чертеж $(item)PCB/$ — это специальный компонент, необходимый для создания светового короба $(l:manufacturing/uv_light_box)UV/$.$(p). Его нельзя изготовить обычным способом, а его необходимо обменять, обычно через $(l:tools/amadron_tablet)Планшет Amadron/$, но возможно, также через $(l:base_concepts/villagers)Механики/$."
+    },
+    {
+      "type": "pneumaticcraft:amadron_trade",
+      "recipe": "pneumaticcraft:amadron/pcb_blueprint",
+      "text": "Торгую чертежом $(item)PCB/$."
+    }
+  ]
+}

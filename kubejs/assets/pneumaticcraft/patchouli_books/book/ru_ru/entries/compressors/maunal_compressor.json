@@ -1,0 +1,17 @@
+{
+  "name": "Ручной компрессор",
+  "icon": "pneumaticcraft:manual_compressor",
+  "category": "pneumaticcraft:compressors",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Ручной компрессор/$ — это компрессор ранней игры, который производит $(l:base_concepts/pressure)сжатый воздух/$ в результате ручного труда и голода. Удерживайте правую кнопку мыши на компрессоре, чтобы накачать воздух и сжать его. Чем выше давление компрессора, тем дольше работает каждый насос, пока не станет невозможно накачать больше воздуха."
+    },
+    {
+      "type": "crafting",
+      "text": "Изготовление ручного компрессора $(item)/$",
+      "recipe": "pneumaticcraft:manual_compressor"
+    }
+  ]
+}

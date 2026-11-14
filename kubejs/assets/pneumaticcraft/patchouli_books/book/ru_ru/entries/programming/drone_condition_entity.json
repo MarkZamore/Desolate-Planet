@@ -1,0 +1,19 @@
+{
+  "name": "Состояние дрона: Виджет сущности",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_drone_entity_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)Состояние/$.$(p)Условие $(thing)Drone: Entity/$ позволяет вам проверить объект, который в данный момент несет этот $(l:tools/drone)Дрон/$. Вы можете добавить дополнительный виджет $(l:programming/text)Текст/$ с $(l:base_concepts/entity_filter)Фильтр объектов/$, чтобы фильтровать проверяемый объект. Без виджета $(thing)Текст/$ условие будет истинным, если переносится объект $(italic)любой/$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_drone_entity_piece.png"
+      ],
+      "text": "$(italic)Drone Состояние: Виджет объекта/$"
+    }
+  ]
+}

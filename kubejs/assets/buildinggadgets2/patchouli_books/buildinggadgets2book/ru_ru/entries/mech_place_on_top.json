@@ -1,0 +1,22 @@
+{
+  "name": "Размещение сверху",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/place_on_top.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Размещение сверху зависит от режима. В некоторых режимах эта настройка ничего не меняет.$(br2)Обычно гаджет будет размещать блоки над выбранным блоком, а не вокруг него. Результат можно увидеть в предпросмотре.$(br2)Два примера показаны справа."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Размещение сверху",
+      "images": [
+        "buildinggadgets2:textures/book/images/placeontop1.png",
+        "buildinggadgets2:textures/book/images/placeontop2.png"
+      ],
+      "border": true,
+      "text": "Переключайте картинки стрелками"
+    }
+  ]
+}

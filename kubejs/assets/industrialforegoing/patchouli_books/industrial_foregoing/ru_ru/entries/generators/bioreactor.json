@@ -1,0 +1,17 @@
+{
+  "name": "Биореактор",
+  "icon": "industrialforegoing:bioreactor",
+  "category": "industrialforegoing:generators",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Из $(6)семян$(), $(6)саженцев$(), $(6)красителей$() и даже $(6)черепов$() вместе с водой получается $(l:generators/biofuel)биотопливо$(). $(br2)Чем больше видов сырья, тем выше выход. Один вид даст $(6)80$() мБ с предмета. Четыре вида дадут по $(6)110$() мБ, всего $(6)440$() мБ."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:bioreactor"
+    }
+  ]
+}

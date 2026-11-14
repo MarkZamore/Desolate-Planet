@@ -1,0 +1,22 @@
+{
+  "name": "Лестница",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/stairs.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Строит ступени вверх от игрока либо вверх к нему. Направление зависит от того, находитесь вы выше или ниже выбранного блока.$(br2)В этом режиме легко запутаться. Лучше сначала взглянуть на предпросмотр."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Лестница",
+      "images": [
+        "buildinggadgets2:textures/book/images/stairs1.png",
+        "buildinggadgets2:textures/book/images/stairs2.png"
+      ],
+      "border": true,
+      "text": "Переключайте картинки стрелками"
+    }
+  ]
+}

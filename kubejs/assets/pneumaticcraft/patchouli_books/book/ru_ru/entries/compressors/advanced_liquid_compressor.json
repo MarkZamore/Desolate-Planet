@@ -1,0 +1,17 @@
+{
+  "name": "Продвинутый жидкостный компрессор",
+  "icon": "pneumaticcraft:advanced_liquid_compressor",
+  "category": "pneumaticcraft:compressors",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Продвинутый жидкостный компрессор/$ — это $(l:base_concepts/pressure_tiers)tier 2/$ версия $(l:compressors/liquid_compressor)Жидкостный компрессор/$с максимальным безопасным давлением 20 бар. Он генерирует базовый расход воздуха 50 мл на тик и может быть модернизирован с помощью $(l:base_concepts/upgrades#speed)Speed ​​Upgrades/$.$(p)Однако этот генератор должен иметь $(l:base_concepts/heat)охлаждаемый/$, так как его эффективность будет падать с повышением температуры вплоть до того момента, когда воздух вообще не будет генерироваться."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание $(item)Усовершенствованного жидкостного компрессора/$",
+      "recipe": "pneumaticcraft:advanced_liquid_compressor"
+    }
+  ]
+}

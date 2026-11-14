@@ -1,0 +1,60 @@
+{
+  "name": "Менеджер шаблонов",
+  "sortnum": 1,
+  "category": "buildinggadgets2:templates",
+  "icon": "buildinggadgets2:template_manager",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Сохраняет постройки из $(l:buildinggadgets2:copypaste)гаджета копирования$(/l). $(br2)Шаблоны хранятся как предметы, а сами схемы можно передавать даже за пределами мира.$(br2)Положите гаджет копирования в верхнюю ячейку и лист бумаги в нижнюю."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Менеджер шаблонов",
+      "images": [
+        "buildinggadgets2:textures/book/images/templatemanager1.png"
+      ],
+      "border": true,
+      "text": "Шаг 1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Нажмите «Сохранить», чтобы превратить бумагу в шаблон. Появится изображение постройки.$(br2)Его можно сдвигать и поворачивать кнопками мыши, а масштаб менять колёсиком. $(br2)Чтобы загрузить постройку из шаблона в гаджет, нажмите «Загрузить»."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Просмотр постройки",
+      "images": [
+        "buildinggadgets2:textures/book/images/templatemanager2.png"
+      ],
+      "border": true,
+      "text": "Предпросмотр шаблона"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Нажмите кнопку просмотра модели, чтобы перейти к списку материалов. Он показывает блоки, нужные для этой постройки.$(br2)Нажмите кнопку материалов ещё раз, чтобы вернуться к модели."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Список материалов",
+      "images": [
+        "buildinggadgets2:textures/book/images/templatemanager3.png"
+      ],
+      "border": true,
+      "text": "Материалы для постройки"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Название шаблона отображается на предмете.$(br2)Кнопка «Копировать» сохраняет строку JSON в буфер обмена. Друг может скопировать эту строку и нажать «Вставить» в менеджере шаблонов, чтобы получить такую же схему.$(br2)Перед вставкой положите бумагу в нижнюю ячейку."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Название шаблона",
+      "images": [
+        "buildinggadgets2:textures/book/images/templatemanager4.png"
+      ],
+      "border": true,
+      "text": "Такой дом стоит сохранить"
+    }
+  ]
+}

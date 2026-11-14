@@ -1,0 +1,19 @@
+{
+  "name": "Состояние дрона: Радиочастотный виджет",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_drone_rf_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)Состояние/$.$(p)The $(thing)Drone Condition: RF/$ виджет позволяет вам проверить количество $(thing)Forge Energy (FE)/$, переносимое этим виджетом. $(l:tools/drone)Дрон/$.$(p)$(italic)Несмотря на свое название, этот виджет проверяет FE, а не RF (Redstone Flux). Название историческое./$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_drone_rf_piece.png"
+      ],
+      "text": "$(italic)Состояние дрона: RF Widget/$"
+    }
+  ]
+}

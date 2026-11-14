@@ -1,0 +1,19 @@
+{
+  "name": "Виджет пустого предмета",
+  "icon": "pneumaticcraft:textures/progwidgets/void_item_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это немедленно и навсегда уничтожит предметы в инвентаре дрона — будьте осторожны! Настоятельно рекомендуется использовать это вместе с $(l:programming/item_filter)Фильтр предметов/$. При использовании фильтра аннулируются только те элементы, которые разрешены фильтром.$(p)Виджет завершает выполнение, когда ни один из применимых элементов не остается в $(item)Дрон/$ инвентарь."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/void_item_piece.png"
+      ],
+      "text": "$(italic)Все равно не хотел/$"
+    }
+  ]
+}

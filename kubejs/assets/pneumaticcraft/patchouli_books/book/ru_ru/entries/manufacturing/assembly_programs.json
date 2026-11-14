@@ -1,0 +1,18 @@
+{
+  "name": "Программы сборки",
+  "icon": "pneumaticcraft:assembly_program_laser",
+  "category": "pneumaticcraft:manufacturing",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Программы$(thing)Сборка/$ необходимо вставить в контроллер $(l:manufacturing/assembly_system)Сборка/$, чтобы сообщить ему, какой тип операции необходимо выполнить. Их нельзя создать, их нужно обменять; либо от $(thing)Жители-механики/$, либо через планшет $(l:tools/amadron_tablet)Amadron/$."
+    },
+    {
+      "type": "spotlight",
+      "title": "Дрель и лазер",
+      "item": "pneumaticcraft:assembly_program_drill_laser",
+      "text": "Программа $(item)Assembly: Drill & Laser/$ немного особенная. Он не поддерживает рецепты сверла и лазера; вместо этого он обеспечивает однопрограммный метод для двухэтапных рецептов, которые включают этапы сверления $(italic)и/$, например $(l:tubes/pressure_tubes#advanced)Усовершенствованные напорные трубки/$."
+    }
+  ]
+}

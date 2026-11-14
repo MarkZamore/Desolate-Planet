@@ -10,6 +10,31 @@
   ],
   "patches": [
     {
+      "path": "config/crash_assistant/scripts/startup/memory_check.jexl",
+      "before": {
+        "sizeBytes": 3976,
+        "sha256": "d1d620a30e64e6293a6981d1084e33c2ed15b780ce5c0fab14bed1870a0cfb17"
+      },
+      "after": {
+        "sizeBytes": 2417,
+        "sha256": "f2b9078ef4b923ab4777afc18a5d04057ab69a07086c1a897274688293653218"
+      },
+      "replacements": [
+        {
+          "from": "// --- Configuration Area ---\r\nvar MINIMUM_GB = 6.0;\r\nvar RECOMMENDED_GB = 8.0;\r\nvar MAXIMUM_GB = 12.0;\r\n// --------------------------\r\n\r\n",
+          "to": ""
+        },
+        {
+          "from": "var xmxGB = MemoryUtils.bytesToGigabytes(xmxBytes);\r\n",
+          "to": ""
+        },
+        {
+          "from": "// 1. Critical Minimum Check\r\nif (xmxGB < (MINIMUM_GB * 0.95)) {\r\n    var msg = LanguageProvider.get(\"custom.memory_below_minimum\");\r\n    msg = msg.replace(\"$XMX$\", formattedXmx);\r\n    msg = msg.replace(\"$MINIMUM$\", MINIMUM_GB.toString());\r\n    msg = msg.replace(\"$RECOMMENDED$\", RECOMMENDED_GB.toString());\r\n    var warn = Startup.addBootWarning(msg);\r\n    warn.withMemoryAllocationGuide();\r\n}\r\n\r\n// 2. Minimum Recommended Check\r\nelse if (xmxGB < (RECOMMENDED_GB * 0.95)) {\r\n    var msg = LanguageProvider.get(\"custom.memory_below_recommended\");\r\n    msg = msg.replace(\"$XMX$\", formattedXmx);\r\n    msg = msg.replace(\"$RECOMMENDED$\", RECOMMENDED_GB.toString());\r\n    var lowMemWarn = Startup.addBootWarning(msg);\r\n    lowMemWarn.withDontShowAgain(\"low_memory_check\");\r\n    lowMemWarn.withMemoryAllocationGuide();\r\n}\r\n\r\n// 3. Excessive Allocation Check\r\n// Warning starts exactly when Xmx exceeds MAXIMUM_GB.\r\nif (xmxGB > (MAXIMUM_GB * 1.05)) {\r\n    var msg = LanguageProvider.get(\"custom.memory_above_maximum\");\r\n    msg = msg.replace(\"$XMX$\", formattedXmx);\r\n    msg = msg.replace(\"$RECOMMENDED$\", RECOMMENDED_GB.toString());\r\n    msg = msg.replace(\"$MAXIMUM$\", MAXIMUM_GB.toString());\r\n    var excessiveMemWarn = Startup.addBootWarning(msg);\r\n    excessiveMemWarn.withDontShowAgain(\"excessive_memory_check\");\r\n    excessiveMemWarn.withMemoryAllocationGuide();\r\n}\r\n\r\n",
+          "to": ""
+        }
+      ]
+    },
+    {
       "path": "config/e4mc/e4mc.toml",
       "before": {
         "sizeBytes": 1120,

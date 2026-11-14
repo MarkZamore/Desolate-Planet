@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "result": "PASS",
+  "evidencePurpose": "Desolate Planet ordinary Survival, Corpse, keepInventory and client book locales",
+  "sourcePayload": "17b17ed8ccac949040d01f1570817a6ec856184f",
+  "publicLauncher": 497,
+  "launcherAssemblySha256": "532f9237f5c226c18bbe4fb885389ea2b13ac31de8f24932b03fb3b7d5947b4a",
+  "runtimeProfile": "1.20.1-forge-47.4.20",
+  "java": "Eclipse Temurin 17.0.20.1",
+  "profileDescriptorSha256": "96182334ad6aeb9a5567aa1ac2037d61b660256e360908c1166ccc3ea20e8eb9",
+  "managedSteamSha256": "3f397fc193f14d3c543b5ef9b4613bc149a21ca8e14bd93c39de3d1bc6f9553c",
+  "globalGameRulesConfigSha256": "5976786ceaf7e4f5310984c9a89250bd64b5c63219ec574a7e9597e2cabf4d48",
+  "authoredDefaultRules": {
+    "doTraderSpawning": false,
+    "doPatrolSpawning": false,
+    "doDaylightCycle": false
+  },
+  "mods": [
+    {
+      "name": "GlobalGameRules-1.20.1-8.1.0.12.jar",
+      "sha256": "99910454017ffaef542b2b655b8f82c978fa055133d450e3322f532f54e5533e"
+    },
+    {
+      "name": "corpse-forge-1.20.1-1.0.23.jar",
+      "sha256": "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
+    },
+    {
+      "name": "corpsecurioscompat-1.20.1-Forge-4.0.1.jar",
+      "sha256": "eed0e0936172e4ad9c2ad4d5e4dd2e740f27ff2363349a209f32a396cb2b6535"
+    }
+  ],
+  "freshPostExitLevel": {
+    "sha256": "e4db252bf5e27e9427e734ef683ac536195bd71eb9fbe4d161bc5392b23767b9",
+    "gameType": "SURVIVAL",
+    "difficulty": "NORMAL",
+    "hardcore": false,
+    "keepInventory": true
+  },
+  "finalPostExitLevelSha256": "95431919ac598d65fdf43d5c72d817ac60dd42433e5724225d2af64f9987fcc1",
+  "provenance": {
+    "localizedResourcePins": 373,
+    "launch": "tools/PackData/CurseForge/Start-LocalQa.ps1 -WithSteam -UseProductionJavaArgumentFile -NativeQaWorldSuffix Respawn",
+    "builder": "tools/qa/Build-RespawnProbe.ps1"
+  },
+  "runs": [
+    {
+      "name": "RespawnFresh",
+      "agentSha256": "5d633d6954a2ffb0a4a8ab94337dcd9d1f9032a446e11c0a766fab603415749c",
+      "profile": "1.20.1-forge-47.4.20",
+      "exitCode": 0,
+      "productionArgumentFileRemoved": true,
+      "events": [
+        {
+          "kind": "world_created",
+          "utc": "2026-11-14T18:23:33.445405600Z",
+          "gameMode": "SURVIVAL",
+          "commands": false
+        },
+        {
+          "kind": "respawn_and_inventory",
+          "utc": "2026-11-14T18:23:35.607681700Z",
+          "itemsAtRespawn": 0,
+          "survivalRespawn": true,
+          "keepInventoryAtDeath": false,
+          "nativeCorpseTransfer": true,
+          "itemsInCorpse": 3,
+          "itemsAfterRecovery": 3,
+          "keepInventoryForNextLoad": true
+        },
+        {
+          "kind": "world_saved",
+          "utc": "2026-11-14T18:23:39.596880100Z",
+          "levelDatSha256": "534deecbbde2842663444b5518e4205701c037553b1c90c14a9eb166ca6dc9fa",
+          "levelDatBytes": 383081
+        },
+        {
+          "kind": "complete",
+          "utc": "2026-11-14T18:23:39.598419600Z",
+          "nativeRespawn": "PASS",
+          "nativeSteam": "NOT RUN"
+        }
+      ]
+    },
+    {
+      "name": "RespawnRetainedBooks",
+      "agentSha256": "f213be98fa8d8800aea25cceb879adc5899fd0e179d1e25dba49a49ae8d20aec",
+      "profile": "1.20.1-forge-47.4.20",
+      "exitCode": 0,
+      "productionArgumentFileRemoved": true,
+      "events": [
+        {
+          "kind": "world_reopened",
+          "utc": "2026-11-14T18:28:04.887778500Z",
+          "gameMode": "SURVIVAL",
+          "commands": false
+        },
+        {
+          "kind": "native_book_locales",
+          "utc": "2026-11-14T18:28:35.137751600Z",
+          "en_us": {
+            "buildingGadgets": "Basics",
+            "industrialForegoing": "Fluid Collector",
+            "pneumaticCraft": "Crude Oil",
+            "materialsAndYou": "Recycling Tools",
+            "appliedEnergisticsGuide": "en_us",
+            "hqmGatheringSupplies": "Gathering Supplies"
+          },
+          "ru_ru": {
+            "buildingGadgets": "Основы",
+            "industrialForegoing": "Жидкостный собиратель",
+            "pneumaticCraft": "Сырая нефть",
+            "materialsAndYou": "Разборка инструментов",
+            "appliedEnergisticsGuide": "ru_ru",
+            "hqmGatheringSupplies": "Сбор припасов"
+          }
+        },
+        {
+          "kind": "failure",
+          "utc": "2026-11-14T18:31:07.116639200Z",
+          "message": "Timed out waiting for respawn in Survival.",
+          "exception": "java.util.concurrent.TimeoutException"
+        }
+      ]
+    },
+    {
+      "name": "RetainedRetry",
+      "agentSha256": "3bb2475302441671d1da216f536b54734f546636bb34a7160ce15cb6727224a2",
+      "profile": "1.20.1-forge-47.4.20",
+      "exitCode": 0,
+      "productionArgumentFileRemoved": true,
+      "events": [
+        {
+          "kind": "world_reopened",
+          "utc": "2026-11-14T18:34:31.034324200Z",
+          "commands": false,
+          "gameMode": "SURVIVAL"
+        },
+        {
+          "kind": "respawn_and_inventory",
+          "utc": "2026-11-14T18:34:32.778301200Z",
+          "itemsAfterRecovery": 3,
+          "itemsInCorpse": 0,
+          "doPatrolSpawning": false,
+          "nativeCorpseTransfer": false,
+          "keepInventoryForNextLoad": true,
+          "survivalRespawn": true,
+          "keepInventoryAtDeath": true,
+          "itemsAtRespawn": 3
+        },
+        {
+          "kind": "world_saved",
+          "utc": "2026-11-14T18:34:34.412250100Z",
+          "levelDatBytes": 385068,
+          "levelDatSha256": "8a00c63422b15ceeeac17847fc5002faa770dd3712d294b882e142d5fcae1f89"
+        },
+        {
+          "kind": "complete",
+          "utc": "2026-11-14T18:34:34.412250100Z",
+          "nativeSteam": "NOT RUN",
+          "nativeRespawn": "PASS"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Intermediate locale test observed both EN and RU sample resolutions and saved Health=20 with exactly three marked carrots. Initial QA required a completely closed UI and timed out after native Respawn. Retried with a unique marker and native client/server alive outside DeathScreen.",
+    "The independent Hardcore test, Steam publication and second Steam account were not exercised. The keepInventory=false test filled and recovered the actual Corpse main inventory. Curios item pickup and all book pages were not exhaustively checked."
+  ]
+}

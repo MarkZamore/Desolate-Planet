@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "revision": "17b17ed8ccac949040d01f1570817a6ec856184f",
+  "publicAssets": 145,
+  "publicGameFiles": 3284,
+  "publicAssetBytes": 335160037,
+  "candidateManifestSha256": "1b4fc2035215c5b5b62dcff4b44e8956ff96d10130dced50a568c585faa2fcff",
+  "checkedBodies": true,
+  "publishedManifestVerified": true
+}

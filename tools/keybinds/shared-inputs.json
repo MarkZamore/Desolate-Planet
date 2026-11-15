@@ -1,0 +1,124 @@
+{
+  "a": {
+    "key_key.left": "key.keyboard.a",
+    "key_key.jei.bookmark": "key.keyboard.a"
+  },
+  "backslash": {
+    "key_key.sfm.text_editor.accept_intellisense": "key.keyboard.backslash",
+    "key_key.journeymap.minimap_preset": "key.keyboard.backslash"
+  },
+  "c": {
+    "key_key.saveToolbarActivator": "key.keyboard.c",
+    "key_key.journeymap.fullscreen_chat_position": "key.keyboard.c"
+  },
+  "down": {
+    "key_key.jei.nextSearch": "key.keyboard.down",
+    "key_key.journeymap.fullscreen.south": "key.keyboard.down"
+  },
+  "e": {
+    "key_key.inventory": "key.keyboard.e",
+    "key_key.sfm.manager.text_editor": "key.keyboard.e:CONTROL",
+    "key_key.sfm.title_screen.text_editor": "key.keyboard.e:CONTROL"
+  },
+  "end": {
+    "key_key.craftingtweaks.compress_one": "key.keyboard.end:CONTROL",
+    "key_key.craftingtweaks.compress_stack": "key.keyboard.end",
+    "key_key.craftingtweaks.compress_all": "key.keyboard.end:SHIFT"
+  },
+  "f": {
+    "key_key.swapOffhand": "key.keyboard.f",
+    "key_key.jei.focusSearch": "key.keyboard.f:CONTROL"
+  },
+  "h": {
+    "key_key.journeymap.fullscreen.disable_buttons": "key.keyboard.h",
+    "key_key.buildinggadgets2.anchor": "key.keyboard.h"
+  },
+  "home": {
+    "key_key.craftingtweaks.refill_last": "key.keyboard.home:CONTROL",
+    "key_key.craftingtweaks.refill_last_stack": "key.keyboard.home"
+  },
+  "i": {
+    "key_key.sfm.container_inspector.activation_key": "key.keyboard.i:CONTROL",
+    "key_key.mekanism.mode": "key.keyboard.i:ALT"
+  },
+  "left.alt": {
+    "key_key.sfm.toggle_label_view_key": "key.keyboard.left.alt",
+    "key_key.sfm.label_gun.pick_block_modifier": "key.keyboard.left.alt",
+    "key_key.betterblockz.scroll_modifier": "key.keyboard.left.alt",
+    "key_key.tleveling.show_exp": "key.keyboard.left.alt"
+  },
+  "left.control": {
+    "key_key.sprint": "key.keyboard.left.control",
+    "key_key.control": "key.keyboard.left.control",
+    "key_key.sfm.label_gun.contiguous_modifier": "key.keyboard.left.control"
+  },
+  "left.shift": {
+    "key_key.sneak": "key.keyboard.left.shift",
+    "key_key.sfm.more_info": "key.keyboard.left.shift",
+    "key_key.sfm.label_gun.clear_modifier": "key.keyboard.left.shift",
+    "key_key.sfm.label_gun.scroll_modifier": "key.keyboard.left.shift",
+    "key_key.sfm.label_gun.pull_modifier": "key.keyboard.left.shift",
+    "key_key.mekanism.details": "key.keyboard.left.shift",
+    "key_key.jade.show_details": "key.keyboard.left.shift"
+  },
+  "mouse.left": {
+    "key_key.attack": "key.mouse.left",
+    "key_key.jei.showRecipe2": "key.mouse.left",
+    "key_key.jei.maxTransferRecipeBookmark": "key.mouse.left:CONTROL",
+    "key_key.jei.toggleCheatModeConfigButton": "key.mouse.left:CONTROL",
+    "key_key.jei.toggleHideIngredient": "key.mouse.left:CONTROL",
+    "key_key.jei.cheatItemStack": "key.mouse.left:SHIFT",
+    "key_key.jei.transferRecipeBookmark": "key.mouse.left:SHIFT",
+    "key_key.jei.cheatOneItem": "key.mouse.left"
+  },
+  "mouse.middle": {
+    "key_key.pickItem": "key.mouse.middle",
+    "key_key.jei.cheatItemStack2": "key.mouse.middle",
+    "key_key.sophisticatedcore.sort": "key.mouse.middle"
+  },
+  "mouse.right": {
+    "key_key.use": "key.mouse.right",
+    "key_key.jei.toggleWildcardHideIngredient": "key.mouse.right:CONTROL",
+    "key_key.jei.cheatOneItem2": "key.mouse.right",
+    "key_key.jei.showUses2": "key.mouse.right",
+    "key_key.jei.clearSearchBar": "key.mouse.right"
+  },
+  "o": {
+    "key_key.jei.toggleOverlay": "key.keyboard.o:CONTROL",
+    "key_key.journeymap.fullscreen_options": "key.keyboard.o"
+  },
+  "page.down": {
+    "key_key.jei.nextRecipePage": "key.keyboard.page.down",
+    "key_key.jei.nextCategory": "key.keyboard.page.down:SHIFT"
+  },
+  "page.up": {
+    "key_key.jei.previousRecipePage": "key.keyboard.page.up",
+    "key_key.jei.previousCategory": "key.keyboard.page.up:SHIFT"
+  },
+  "period": {
+    "key_key.journeymap.create_waypoint": "key.keyboard.period",
+    "key_key.journeymap.fullscreen_create_waypoint": "key.keyboard.period",
+    "key_key.journeymap.fullscreen_waypoints": "key.keyboard.period:CONTROL"
+  },
+  "r": {
+    "key_key.jei.showRecipe": "key.keyboard.r",
+    "key_key.cgm.reload": "key.keyboard.r:ALT"
+  },
+  "u": {
+    "key_key.jei.showUses": "key.keyboard.u",
+    "key_key.buildinggadgets2.undo": "key.keyboard.u:ALT"
+  },
+  "up": {
+    "key_key.jei.previousSearch": "key.keyboard.up",
+    "key_key.journeymap.fullscreen.north": "key.keyboard.up"
+  },
+  "x": {
+    "key_key.loadToolbarActivator": "key.keyboard.x",
+    "key_quark.keybind.change_hotbar": "key.keyboard.x:ALT"
+  },
+  "y": {
+    "key_pneumaticcraft.helmet.debugging.drone": "key.keyboard.y:CONTROL",
+    "key_key.tconstruct.helmet_interact": "key.keyboard.y:ALT",
+    "key_key.tconstruct.leggings_interact": "key.keyboard.y:SHIFT"
+  }
+}

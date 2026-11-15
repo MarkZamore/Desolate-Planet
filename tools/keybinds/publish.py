@@ -60,9 +60,9 @@ def main():
             raise ValueError("This revision is already published with a different preset")
         return
 
-    allowed = (".github/workflows/publish.yml", ".gitattributes", PATH, "tools/keybinds/")
+    allowed = {".github/workflows/publish.yml", ".gitattributes", PATH, "tools/qa/full-book-locales.json"}
     paths = subprocess.check_output(["git", "diff", "--name-only", manifest["revision"], revision], text=True)
-    if any(not (name in allowed[:3] or name.startswith(allowed[3])) for name in paths.splitlines()):
+    if any(not (name in allowed or name.startswith("tools/keybinds/")) for name in paths.splitlines()):
         raise ValueError("Source has game payload changes requiring normal pack preparation")
     old_tag = json.loads(gh("api", f"repos/{REPO}/git/ref/tags/{TAG}"))["object"]["sha"]
     if old_tag != manifest["revision"]:

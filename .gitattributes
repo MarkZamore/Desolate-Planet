@@ -10,3 +10,4 @@
 /licenses/*.txt text eol=lf
 /launcher/controls-preset.txt text eol=lf
 /tools/keybinds/* text eol=lf
+/kubejs/client_scripts/lanmc_multiplayer_warning.js text eol=lf

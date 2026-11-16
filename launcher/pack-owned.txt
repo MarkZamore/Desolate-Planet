@@ -476,6 +476,7 @@ kubejs/assets/tconstruct/book/materials_and_you/ru_ru/tools/tconstruct_crossbow.
 kubejs/assets/tconstruct/book/materials_and_you/ru_ru/tools/tconstruct_fishing_rod.json
 kubejs/assets/tconstruct/book/materials_and_you/ru_ru/tools/tconstruct_shuriken.json
 kubejs/assets/tconstruct/book/materials_and_you/ru_ru/tools/tconstruct_throwing_axe.json
+kubejs/client_scripts/lanmc_multiplayer_warning.js
 licenses/LICENSE-AE2NetworkAnalyzer-GPL-3.0.txt
 licenses/LICENSE-AE2NetworkAnalyzer-LGPL-3.0.txt
 licenses/LICENSE-BuildingGadgets2.txt

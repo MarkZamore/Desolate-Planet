@@ -1,4 +1,4 @@
-name: Publish Desolate Planet controls preset
+name: Publish Desolate Planet client files
 
 on:
   workflow_dispatch:
@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - launcher/controls-preset.txt
+      - kubejs/client_scripts/lanmc_multiplayer_warning.js
       - tools/keybinds/**
       - .github/workflows/publish.yml
 

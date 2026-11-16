@@ -29,6 +29,13 @@ python -B tools/PackData/CurseForge/release_overlay.py stage --pack-source Local
 
 ## Публикация
 
+Клиентский скрипт KubeJS включает штатный параметр Minecraft
+`skipMultiplayerWarning` перед открытием списка серверов. Рецепт
+`clientScripts` в `tools/overlay.json` переносит скрипт при обновлении
+авторского архива независимо от наличия `kubejs/config/defaultoptions.txt`.
+Проверка поставки сверяет SHA256 скрипта, а `launcher/pack-owned.txt`
+доставляет его и в уже установленную сборку.
+
 У сборки CC BY-NC-SA 4.0. В манифесте закреплён JourneyMap, CF 32274/5789363. Его условия ограничивают перепубликацию JAR. [Условия](https://teamjm.github.io/journeymap-docs/latest/about/licensing/)
 
 Пользователь подтвердил наличие разрешения на перезалив. Публикация следует после проверки полного состава и нативной приёмки.

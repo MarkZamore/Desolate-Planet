@@ -12049,5 +12049,24 @@
         "sha256": "c9814538edb94a1af540c6386064bfd6e4d639f2ef55b4765c6da507bf355cf8"
       }
     }
-  ]
+  ],
+  "clientScripts": {
+    "dependencies": [
+      {
+        "projectId": 238086,
+        "fileId": 8020595
+      },
+      {
+        "projectId": 416294,
+        "fileId": 6186971
+      }
+    ],
+    "files": [
+      {
+        "path": "kubejs/client_scripts/lanmc_multiplayer_warning.js",
+        "sizeBytes": 244,
+        "sha256": "48441a7ed2013dfb0f14549bf054cf9491bbdc0ada417b9994088f5ef940fe41"
+      }
+    ]
+  }
 }

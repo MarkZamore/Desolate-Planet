@@ -1,6 +1,7 @@
 config/crash_assistant/scripts/startup/memory_check.jexl
 config/e4mc/e4mc.toml
 config/globalgamerules-common.toml
+config/lanminecraft/experimental-world-confirmation.jar
 config/log4j2.xml
 kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/ae2-mechanics-index.md
 kubejs/assets/ae2/ae2guide/_ru_ru/ae2-mechanics/autocrafting.md
